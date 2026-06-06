@@ -11,4 +11,6 @@ https://github.com/miku69420/pdfs/blob/main/SM5_6.pdf
 https://github.com/miku69420/pdfs/blob/main/SM6_7.pdf
 https://github.com/miku69420/pdfs/blob/main/SM9_nou.pdf
 https://github.com/miku69420/pdfs/blob/main/2026%20EMEA%20State%20of%20Social%20Media%20Report.pdf
+https://github.com/miku69420/pdfs/blob/main/2026%20Global%20State%20of%20Social%20Media%20Report.pdf
+
 
