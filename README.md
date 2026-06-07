@@ -16,3 +16,5 @@ https://github.com/miku69420/pdfs/blob/main/Christakis_Fowler_2009_Connected_ch2
 https://github.com/miku69420/pdfs/blob/main/Ellison_boyd_2013_Sociality%20through%20social%20network%20sites%20%20.pdf
 https://github.com/miku69420/pdfs/blob/main/Narayanan---Understanding-Social-Media-Recommendation-Algorithms_1-7.pdf
 https://github.com/miku69420/pdfs/blob/main/part1_Jos%C3%A9%20van%20Dijck-The%20culture%20of%20connectivity%20_%20a%20critical%20history%20of%20social%20media-Oxford%20University%20Press%20(2013).pdf
+
+If any of the questions you will receive are abything like in
