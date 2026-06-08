@@ -1,0 +1,692 @@
+﻿C5_6. Key concepts for studying Social Media
+
+Nume Prenume
+
+Assoc. Prof. Arabela BRICIU
+
+
+
+This Photo by Unknown Author is licensed under CC BY
+
+Castells (1996,1997, 
+1998, 2009, 2013) 
+• The information age - capitalism focuses on 
+
+information and knowledge
+• information processing and communication 
+
+technologies shape economic, social, and cultural 
+life.
+
+• <<network society>>
+• Widespread access to telecommunications 
+
+technologies has changed the way we live, think 
+and act.
+
+• Networked social relations are a dynamic form of 
+self-developing human activity → transforming all 
+social and economic life spheres.
+
+• Networks have become the predominant form of 
+organisation in all areas of human activity. 
+
+• Social power can also be accumulated in 
+cyberspace by marginalised groups in order to 
+challenge state institutions and the global elite.
+
+
+
+
+
+
+https://www.irex.org/insight/visualizing-what-
+connects-us-social-network-analysis-me
+
+
+
+Relation - Social ties
+Relation - a series of social ties (of a particular type) between
+group members.
+
+Trust - a positive expectation that the other person will behave according
+to your expectations (vs. suspicion, doubt)
+Cooperation - an action with multiple actors and a common goal or set of
+goals ( vs. conflict)
+Tolerance –cohabitation agreement; acceptance and understanding for
+those who act differently than you, based on other beliefs or lifestyles (vs.
+intolerance)
+
+→ The ties are diverse and can indicate:
+The way one person relates to another (e.g., friendship, respect,
+condescension/superiority)
+The flow of some resources (e.g., circulation of information, goods,
+money)
+Affiliation (e.g., membership in an association, group, party; institutional
+affiliation)
+Interaction (e.g., exchange of messages, dialogue, face-to-face meeting,
+fight)
+
+
+
+Social networks
+Social network - a finite set of actors together with the
+established relationship or relationships between these actors
+(social relationships that have very different content -
+information, power, control, etc.)
+
+Actors (individual or group entities) - Nodes
+Relationships - Ties
+
+A. Continuous social ties
+
+A1. Similarities • Physical proximity (e.g., neighbourhood neighbours, bank colleagues, next-door
+neighbours)
+
+• Co-membership (e.g. members of the same organisation - party, association, etc.)
+• Sharing the same values, behaviours, attitudes, beliefs (e.g. support for right-wing
+
+political values, support for the LGBT community, embracing the same religion)
+A2. Social Networks • Role relationships (e.g., mother, father, boss, teacher, tutor, mentor, etc.)
+
+• Cognitive/emotional relationships (e.g., I am friends with X, I like Y, I know Z, I don't
+like W, etc.
+
+B. Discreet social ties
+
+B1. Interactions Talk with...; Dine with...; Go to party with...; Fight with... etc.
+
+B2. Flows Resources that flow from one network node (individual) to another in succession
+(e.g. a sum of money, a book, a piece of information) or simultaneously (e.g. an e-mail 
+can reach several nodes simultaneously). 
+
+Borgatti andi Lopez-Kidwell, 2012 cited in Hâncean (2014, p.39)
+
+
+
+Types of social networks
+
+• Dyad: two actors and their possible relationships [basic unit in analysis].     
+A        B the characteristics of ties (directional, reciprocity)
+
+multiplex nature (A, B - friends but also co-workers)
+
+• Triad: set of three actors and their possible relationships
+A        B Tranzitivity: if A likes B and B likes C, then A will like C.
+
+C Balance: if A and B like each other, then they will be similar in their assessment of C; 
+
+if A and B dislike each other, then they will have different assessments of C.
+
+• One-mode networks – a single set of actors (the communication network
+within an organisation)
+
+• 2-mode networks – two sets of actors : affiliate networks - a set of actors
+and a set of events
+
+• Ego-network – personal networks: consist of a central node (ego) and all
+nodes to which it is connected (alters)
+
+• Full-network
+
+
+
+One-mode 2-mode
+All nodes are the same Nodes are of two types
+
+Students enrolled in the Social Transilvania University of Brasov students
+Media course (from different faculties) participating in 
+
+Orientation Days
+Football tournaments between company 
+departments
+
+One-mode and 2-mode networks
+
+
+
+Terms used in network graphs
+
+• Actors in a social network are often called NODES (in the
+international literature: "Nodes" or "Vertices'') (Izquierdo, 2006).
+
+• RELATIONSHIPS between nodes are sometimes called ''arcs'',
+''links'' or ''edges'', and in the specialized literature:
+relationship, link, edge, or tie (Abbasi et al., 2011).
+
+• The diagrams are named differently
+• GRAPHS
+• SOCIOGRAPHS
+• SOCIAL NETWORK DIAGRAMS, according to Borgatti et al., (2013)
+
+
+
+https://cambridge-intelligence.com/use-
+cases/social-networks/
+
+
+
+Social network ties
+
+• Based on occurrence: absent or present
+• "Distances" and "positions" have specific definitions given by the
+
+connections between actors.
+• The ties present can be valorised, depending on their intensity.
+
+
+
+Social network ties
+
+• Indirect (e.g. working together) 
+• Directed (e.g. granting approval).
+
+Directed Indirect
+
+
+
+
+
+
+Social capital
+
+Social networks
+Cooperation Trust SOCIAL
+
+(ties) CAPITAL
+
+• It is " the aggregate of the actual or potential resources which are
+linked to possession of a durable network of more or less
+institutionalized relationships of mutual acquaintance or
+recognition”(Bourdieu, 1986, p.248)
+
+• Social capital is about "relationships of trust and shared values”
+(Putman, 2000, p.312)
+
+• „investment in social relations with expected returns” (Lin, 1999, p.30).
+
+• „ The main components of social capital are trust, norms of reciprocity, 
+and engagement in networks" (van Schaik 2002, p.7).
+
+
+
+https://youtu.be/T01lQGcvZqY?si=kMBxn9yq2m-35IWw 
+
+
+
+Capital social
+Coleman (1988, 1990): social capital is that type of resource which leads to 
+the constitution of the public good as a result of the voluntary cooperation of 
+individuals, which allows access to resources controlled by others, which 
+reduces the transaction costs by establishing trust and reciprocity between 
+partners, and which provides rapid information exchange.
+
+Social capital is a characteristic of the social structure, which is manifested 
+through trust and relationships that allow individuals, communities and 
+societies to access and mobilize resources and information that would 
+otherwise be removed from them and use them in individual, community 
+and societal development projects (Voicu, 2015, p. 61)
+
+→ Social capital = resources (material, informational, symbolic) that you get 
+from social relations (of different intensities) and that you use for personal 
+(individual) or group purposes - based on trust and reciprocity
+
+
+
+https://youtu.be/bxhqVR-
+bc3A?si=wHdkdh8SvMuW0J93
+
+
+
+Social Capital
+Relationship level Methods of interaction Social capital associated with the
+
+interactions
+Private, individual Personal conversations with close Deep, based on reciprocity
+
+friends, face-to-face/one-to-one
+interactions
+
+Public, collective conversations and group Extended, propagation-based
+discussions, multiple interactions (diffusion)
+
+3 dimensions of social capital (Claridge, 2018; Lee, 2017)
+Dimension Definition Examples
+STRUCTURAL Impersonal configuration of linkages between density, connectivity, hierarchy and 
+
+people or units  - relates to the properties of the appropriability of the network of 
+social system and of the network of relations as a relationships in any given context, such 
+whole as a group, organisation, or community 
+
+RELATIONAL The nature of social relationships developed trust and trustworthiness, norms and 
+through interaction between members - relates to sanctions, obligations and expectations, 
+the characteristics and qualities of personal and identity and identification 
+relationships such as trust, obligations, respect and 
+even friendship 
+
+COGNITIVE Shared systems of values, beliefs, perspectives, Language, codes, shared goals, culture, 
+representations and interpretations - elates vision, narratives,  expertise
+resources providing shared representations, 
+interpretations, and systems of meaning among 
+parties 
+
+
+
+SURSA: Claridge(2017), 
+https://www.socialcapitalresearch.com/measure-social-
+capital/ 
+
+
+
+Other 1. Reza Varzidehka, 2023- What is social capital 
+and how can you build yours? (TEDxKerrisdale
+
+perspectives on 2. ) https://youtu.be/wDshG3HYbuI?si=dO2Bxz-
+jhO4G7Xvn      (accessed  18.10. 2023)
+
+understanding 2. Al Condeluci, 2014- Social capital and the 
+power of relationships (TEDxGrandviewAve) 
+
+social capital... https://youtu.be/qaBUV2J0ax4 
+       (accessed 18.10. 2020)
+
+
+
+Perspectives on social 
+capital
+
+• Social capital as the nature and extent 
+of networks and associated norms of 
+reciprocity  social capital, enables 
+individuals to gain access to resources - 
+ideas, information, money, services, 
+benefits - and to have accurate 
+expectations about the behaviour of 
+others by virtue of their participation in 
+relationships that are themselves the 
+product of networks of association 
+(Putman, 2000).
+
+• Burt, Lin → Social capital refers to the 
+resources (e.g., information, social 
+control) that circulate through 
+networks, not the network structure 
+itself.
+
+• Putnam sees social capital as the 
+"wires" (or social infrastructure), while 
+Burt and Lin see it as the "electricity" 
+(or social resource)
+
+Access to power
+Social inequalities
+
+
+
+Bonding
+• Bonding social networks→ Bonding social capital : 
+
+manifests itself through trust and relationships placed
+at the level of the primary group or groups of 
+belonging - it ensures the cohesion of these groups
+and contributes to the creation of a familiar 
+environment in which access to goods and information
+is guaranteed. (Voicu, 2015, p.60)
+
+• strong ties - e.g. between members of the same 
+family or within an ethnic group; this type of social 
+capital is about the day-to-day life of everyone and
+is indispensable for living (getting by); 
+
+• „to trusting and co-operative relations between
+members of a network who see themselves as 
+being similar, in terms of their shared social 
+identity” (Szreter și Woolcock, 2004, p.654)
+
+
+
+Bridging
+• Bridging social networks → bridging social capital: is 
+
+that which manifests itself through participation in 
+associations, through frequent meetings with friends, 
+through generalized trust (in all people, not only in 
+specific groups) and through trust in institutions; it 
+unites through trust and relationships individuals 
+from different groups, allowing them to develop 
+common actions, to access things and to learn 
+information under the control of people much 
+different from those in the group of primary 
+belonging (e.g., family) - (Voicu, 2015, pp.60-61)
+
+• weaker, less dense but overlapping and 
+interlocking ties - e.g. business partners, circle of 
+acquaintances, friends, friends of friends, 
+generally contacts between people belonging to 
+less close groups; it is this type of social capital 
+that favours progress (getting ahead), by putting 
+into motion social energies in different areas and 
+groups 
+
+• comprises relations of respect and mutuality 
+between people who know that they are not 
+alike in some socio-demographic (or social 
+identity) sense (differing by age, ethnic group, 
+class, etc)- Szreter și Woolcock, 2004, p. 655
+
+
+
+1. Members of a network:
+interconnected individuals with strong 3. Those who interact and form links
+ties to each other – BONDING SOCIAL between groups – BRIDGING SOCIAL
+CAPITAL CAPITAL
+
+2. Groups in a community („small
+churches”). Weak ties - few group
+members interact with each other
+
+
+
+Linking
+
+• Linking social networks→ Linking social 
+capital: refers to connections between
+individuals and groups of individuals at different
+levels of influence and social status; for 
+example, connections between the political 
+elite and the general public or between
+individuals belonging to different social classes
+
+• the ability to draw on and manage
+resources, ideas and information from
+institutions beyond the community - is
+mainly the realm of formal institutions
+
+• „ norms of respect and networks of trusting
+relationships between people who are 
+interacting across explicit, formal or 
+institutionalized power or authority
+gradients in society. ” (Szreter & Woolcock, 
+2004, p. 655)
+
+
+
+GOVERNMENTAL/LOCAL AUTHORITIES
+CIVIL SOCIETY (power structures)
+
+LINKING social 
+BONDING capital
+
+social capital
+
+BRIDGING 
+social capital
+
+FRIENDS COLLEAGUES
+FAMILY ASSOCIATES
+CLOSE PEOPLE PARTNERS
+
+
+
+Bonding social capital
+
+Participation
+
+trust trust
+
+Leader
+Network NGOs
+
+Trust
+
+Linking social 
+capital
+
+Participation
+
+trust trust
+Local Authorities
+
+Leader
+
+Network
+
+Trust
+Bonding social capital
+
+
+
+Manuel Lima (2012): 
+The Power of 
+
+Networks (RSA 
+ANIMATE)
+
+https://youtu.be/nJmGrNdJ5Gw
+
+
+
+Some research based on the study of types
+of social capital
+
+• Han, S., Grace Oh, E., & “Pil” Kang, S. (2022). Social Capital Leveraging Knowledge-Sharing Ties 
+and Learning Performance in Higher Education: Evidence From Social Network Analysis in an 
+Engineering Classroom. AERA Open, 8. https://doi.org/10.1177/23328584221086665 
+
+• Cofré-Bravo, G., Klerkx, L., & Engler, A. (2019). Combinations of bonding, bridging, and linking 
+social capital for farm innovation: How farmers configure different support networks. Journal of 
+Rural Studies, 69, 53-64. 
+https://www.sciencedirect.com/science/article/pii/S0743016718308040 
+
+• Claridge, T. (2018). Functions of social capital–bonding, bridging, linking. Social capital 
+research, 20, 1-7 https://www.socialcapitalresearch.com/wp-
+content/uploads/2018/11/Functions-of-Social-Capital.pdf 
+
+• Kyne, D., & Aldrich, D. P. (2020). Capturing bonding, bridging, and linking social capital through 
+publicly available data. Risk, Hazards & Crisis in Public Policy, 11(1), 61-86. 
+https://www.researchgate.net/profile/Daniel-
+Aldrich/publication/337813421_Capturing_Bonding_Bridging_and_Linking_Social_Capital_throu
+gh_Publicly_Available_Data/links/5ded6112299bf10bc34c52cc/Capturing-Bonding-Bridging-
+and-Linking-Social-Capital-through-Publicly-Available-Data.pdf  
+
+
+
+Networks
+↬we live in complex systems (social,
+
+economic, political...) → networks
+encoding the interactions between
+system components
+↬Electricity networks, heating networks,
+
+commercial networks, communication
+networks, neural networks, etc..
+
+↬Communication networks:
+communication devices + transmission (
+wired, wireless)
+↬Social networks: actors + their
+
+relationships
+↬Combining relationships creates
+
+emergent patterns of connections
+between people, groups and things
+↬<<we will never understand complex
+
+systems unless we develop a deep
+understanding of the networks behind
+them>> (Barabási, 2016, p.6)
+
+Network science - interdisciplinarity
+
+
+
+https://youtu.be/RfgjHoVCZwU?si=DyXaaJqFa
+q9W2H8c
+
+
+
+Source: Allen Institute for 
+Brain Science(2014): First 
+3D diagram of a mouse 
+brain;
+Oh, S., Harris, J., Ng, L. et 
+al. A mesoscale 
+connectome of the mouse 
+brain. Nature 508, 207–214 
+(2014). 
+https://doi.org/10.1038/na
+ture13186 
+
+
+
+The Human Connectome Project: http://www.humanconnectomeproject.org
+
+
+
+Source: Telegeography (2021): Global Internet backbone map
+See: https://www.submarinecablemap.com
+
+
+
+Ties in the network
+Network= a collection of dots joined by lines(Newman, 2014).
+
+Network Node Tie
+
+Electricity Generating stations or Transmission lines (cables, pipes..)
+substations –
+
+Neuronal Neurons Synapse
+
+Internet Computer or router – Wired or wireless connection
+
+www: Web pages – Hyperlink
+
+Facebook Profile/user – „Friendship”
+
+
+
+Bibliography:
+• Abbasi, A., Altmann, J., Hossain, L., (2011) „Identifying the effects of co-authorship networks on the performance of scholars: A
+
+correlation and regression analysis of performance measures and social network analysis measures”, în Journal of Informeter, nr.5,
+pp. 594–607;
+
+• Brandes, U., Borgatti, S.P., Freeman, L.C., (2016) „Maintaining the duality of closeness and betweenness centrality”, în Social
+Networks nr. 44, pp. 153–159;
+https://www.researchgate.net/publication/282927391_Maintaining_the_duality_of_closeness_and_betweenness_centrality
+
+• Borgatti, S.P., Everett, M.G., (1999) „Models of core/periphery structures”, în Social Networks, nr. 21, pp. 375–395,-
+https://s3.amazonaws.com/academia.edu.documents/32132703/borgatti_-_models_of_core-
+periphery_structures.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1541397905&Signature=wmq1KtW9v1gAiEDiVbY
+S7Fkyh64%3D&response-content-disposition=inline%3B%20filename%3;
+
+• Bourdieu P., (1985), „The forms of capital”, în Richardson, JG, (ed.), . Handbook of Theory and Research for the Sociology of
+Education, New York, Greenwood Press, pp. 241–258;
+
+• Castells, Manuel (2010) The Rise of Network Society. Oxford: John Wiley & Sons
+• Claridge, T. (2018). Dimensions of Social Capital-structural, cognitive, and relational. Social Capital Research, 1, 1-4.
+
+https://www.socialcapitalresearch.com/wp-content/uploads/2018/01/Dimensions-of-Social-Capital.pdf 
+• Forse (2009), „Sociabilitatea” în Borlandi, M., Boudon, R., Cherkaoui, M., și Valade, B. (coord), Dicționar al gândirii sociologice, Iași,
+
+Polirom, pp. 741-744;
+• Hâncean, Marian-Gabriel, (2014), Retelele sociale. Teorie, metodologie si aplicatii, Iași, Polirom;
+• Izquierdo, L.R., (2006) Introduction To the Formal Analysis of Social Networks;
+• Lee, J. (2017) Social capital expectation and usage of social media: the moderating role of social capital susceptibility, Behaviour &
+
+Information Technology, 36:10, 1067-1080, https://doi.org/10.1080/0144929X.2017.1344730
+• Opsahl, T., Agneessens, F., Skvoretz, J., (2010), „Node centrality in weighted networks: Generalizing degree and shortest paths”, în
+
+Social Networks nr. 32, pp. 245–251- http://psychosystems.org/files/summerschool2017/OpsahlAgneessensSkvoretz2010.pdf
+• Van Schaik, A. B. T. M. (2002). Social capital in the European Values Study surveys.
+
+https://www.oecd.org/innovation/research/2381883.pdf
+• Valente, T.W., Fujimoto, K.,(2010) „Bridging: Locating Critical Connectors in a Network”., în Soc Networks, nr.32, pp.212–220-
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2889704/
+• Voicu, Bogdan, (2015), „Capitalul social”, în Mărginean, Ioan și Vasile, Marian (coord), Dicționar de calitatea vieții, București,
+
+Editura Academiei Române, pp. 59-61;
+
+
+
+Mandatory reading :
+
+Castells, Manuel 
+(2013). Communication 
+power. Oxford 
+University Press, pp.19 -
+26; (extras on e-
+learning platform)
+
+
+
+• Barabasi, A.-L(2017) Linked-Noua știință a rețelelor,București,Brumar;
+• Burt, R. S. (1999), „The social capital of opinion leaders”, în Annals, nr. 566, pp. 37-54.
+• Coleman, J. S. (1988). Social capital in the creation of human capital. The American Journal of
+
+Sociology, 94(1) Supplement: Organizations and institutions: Sociological and economic
+approaches to the analysis of social structure, 95–120.
+
+• Coleman, J. S. (1990). The Foundations of Social Theory. Cambridge, Mass: Harvard University
+Press.
+
+• Granovetter, M. S. (1973), „The Strength of Weak Ties”, în The American Journal of
+Sociology. nr. 78 (6), pp. 1360–1380;
+
+• Granovetter, M. (1983). „The Strength of Weak Ties: A Network Theory Revisited". Sociological
+Theory. Vol 1, pp. 201–233;
+
+• Hâncean, M.-G, (2014), Retelele sociale. Teorie, metodologie si aplicatii, Iași, Polirom, pp. 104-
+150;
+
+• Lou, T. și Tang, J. (2013), „Mining Structural Hole Spanners Through Information Diffusion in
+Social Networks”, la International World Wide Web Conference (IW3C2) , 2013 -
+http://keg.cs.tsinghua.edu.cn/jietang/publications/WWW13-Lou&Tang-Structural-Hole-
+Information-Diffusion.pdf
+
+Bibliography: • Lee, J. (2017). Social capital expectation and usage of social media: the moderating role of
+social capital susceptibility. Behaviour & Information Technology, 36(10), 1067-1080. 
+https://doi.org/10.1080/0144929X.2017.1344730
+
+• Milgram, S., (1967), „The Small World Problem”, în Psychology Today, vol.1, nr.1, pp. 61-67;
+• Obstfeld D., Borgatti, St.P. și Davis J. (2014),„Brokerage as a Process: Decoupling Third Party
+
+Action from Social Network Structure”, în Contemporary Perspectives on Organizational Social
+Networks Research in the Sociology of Organizations, vol. 40, pp. 135-159.
+
+• Opsahl, T., Agneessens, F., Skvoretz, J., (2010), „Node centrality in weighted networks:
+Generalizing degree and shortest paths”, în Social Networks nr. 32, pp. 245–251-
+http://psychosystems.org/files/summerschool2017/OpsahlAgneessensSkvoretz2010.pdf
+
+• Putnam R., (2000) Bowling Alone: The Collapse and Revival of American Community. New York:
+Simon and Schuster,
+
+• Szreter S, și Woolcock M. (2004). Health by association? Social capital, social theory, and the
+political economy of public health. Int J Epidemiol.,33(4), pp. 650–667,
+https://doi.org/10.1093/ije/dyh013 
+
+• Valente, T.W., Fujimoto, K.,(2010) „Bridging: Locating Critical Connectors in a Network”., în Soc
+Networks, nr.32, pp.212–220- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2889704/
+
+• Voicu, B., (2015), „Capitalul social”, în Mărginean, Ioan și Vasile, Marian (coord), Dicționar de
+calitatea vieții, București, Editura Academiei Române, pp. 59-61;
+
+• Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-
+world’networks. nature, 393(6684), 440-442.
+
+
+
+Barabasi, Albert-Lazlo (2002) Linked. The 
+New Science of Networks. Perseus 
+Publishing, pp. 25-64
+
+Mandatory
+readings : Christakis, Nicholas și Fowler, James (2009) 
+
+Connected. The Surprising Power of Our 
+Social Networks and How They Shape Our 
+Lives. Little, Brown and Company, chapter 1.

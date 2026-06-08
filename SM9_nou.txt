@@ -1,0 +1,943 @@
+﻿C9. Creating content, tracking it, and studying social media 
+audiences
+
+Nume Prenume
+
+Assoc. Prof. Arabela BRICIU
+
+
+
+1. Why do people share?
+
+
+
+
+
+
+Spreadability
+Contagiousness
+Viralization
+
+
+
+Exercise: why A. Think about the content you've recently shared or articles you've 
+
+we distribute recently clicked on. 
+
+B. Check the Social Media apps on your phones for content feeds 
+content on and identify examples of content you have recently interacted with.
+
+social media Reflect on what motivates you to share content. or interact with it.
+
+
+
+Zarella (2011) - Zarella’s 
+Hierarchy of Contagiousness: 
+The Science, Design, and 
+Engineering of Contagious Ideas
+
+• Three contagiousness criteria:
+
+a)Exposure: People must be exposed to your 
+content.
+
+b)Attention: They need to be aware of the content 
+you want to spread, such as headlines/topics and 
+more attractive status updates.
+
+c)Motivation: call to action - experiment to 
+determine what works and what doesn't work so 
+well.
+
+• Some types of information are easier to spread than 
+others. Conditions:
+
+• People must be keen for information.
+
+• You need to know what information people 
+already have and what they lack.
+
+• You need to understand what moves them - their 
+hopes, their fears, their animosities.
+
+• You need to have an understanding of how they 
+deal with their hopes, fears, animosities and so 
+on.
+
+• Among the reasons people are motivated to spread 
+others' content/ideas are: personal relevance, 
+humour, usefulness, and shared common interest.
+
+
+
+Berger (2013): Contagious: 
+Why things catch on
+
+• 5 principles:
+
+• Social currency: we share things that 
+make us look good
+
+• Triggers: Information that's easy to 
+remember means it's top of mind and on 
+the tip of your tongue.
+
+• Emotion: When we care, we share.
+• Public visibility: Built to show, built to 
+
+grow.
+• Practical Value: News that people can 
+
+use.
+• Stories: People are natural storytellers, 
+
+and all great brands learn to tell stories. 
+Information travels in the form of idle 
+chatter.
+
+See also Moss's article(6.12.2022) „ Social Media If you want to see Berger's presentation in extenso 
+Sharing: The Psychology of Why We Share”-
+https://everyonesocial.com/blog/the-psychology- „Contagious: Why Things Catch On”, see: 
+
+of-how-and-why-we-share/ https://youtu.be/rLcEc0Igz9A (50:32 min)
+
+
+
+6 Reasons Things Go Viral – Contagious: 
+Why Things Catch On by Jonah Berger
+https://youtu.be/HfSs_hOAkzY
+
+
+
+
+
+
+
+
+
+Berger and Milkman (2012)
+• analysed articles in the New York Times over a three-
+
+month period to identify which types of articles were 
+distributed most often and why.
+
+• They examined each article to identify the emotions the 
+article evoked.
+
+• While articles that evoked positive emotions were 
+shared more than negative ones on average, negative 
+emotions, such as anxiety and anger, increased sharing.
+
+→There are certain types of emotions with high arousal, 
+whether positive or negative, that compel sharing.
+
+• Sadness is a low arousal emotion.
+
+• Awe ( amazement), anger and anxiety are high-arousal 
+emotions.
+
+
+
+Why do people spread fake
+news?(Talwar et al. 2019)
+• Online trust, self-disclosure, FoMO (fear of 
+
+missing out) and social media fatigue have 
+been positively associated with the distribution 
+of fake news.
+
+• In terms of online social comparison, there was 
+a negative association with fake news 
+dissemination.
+
+• Self-disclosure and social media fatigue were 
+positively associated with checking the 
+authenticity of news before sharing it.
+
+• Online trust was negatively associated with 
+verifying the authenticity of news before 
+sharing.
+
+
+
+Needs and uses
+
+• Needs: emotional, social, cognitive 
+and habitual (Wang et al., 2012). 
+
+• Unmet needs may accumulate and 
+generate more intensive use of 
+social networks in the future (Wang 
+et al., 2012).
+
+• Facebook use is driven by the need 
+for self-presentation and the need 
+to belong (Nadkarni and Hofmann, 
+2012). 
+
+• Users engage in continuous 
+impression management (how they 
+are perceived from the outside) , 
+being encouraged by the positive 
+feedback they receive, which is 
+associated with a positive online 
+self-presentation (Metzler and 
+Scheithauer, 2017). 
+
+
+
+Quesenberry and Coolsen (2019)
+• examined the text of posts that brands made on their Facebook pages to see what 
+
+content increased likes, shares, comments and, ultimately, organic reach. 
+
+• Since organic reach for Facebook page content has declined in recent years, it's 
+important to figure out what type of content users are willing to share because 
+Facebook's algorithm is more likely to give us content that our friends engage with. 
+
+• Conducted a content analysis of the text in 1,000 Facebook brand posts to find out what 
+increases engagement metrics that drive organic reach (e.g. likes, shares, comments)
+
+• focused on 18 variables: Aspects of posts such as photos and links, character and word 
+length, number of hashtags, number of links and number of brand mentions, content of 
+posts - new/current style posts, posts focused on promotions or pricing, contests and 
+sweepstakes, posts, posts on corporate social responsibility (CSR) and social causes, 
+events, celebrity-focused posts, questions, calls to action, posts that used exclamation 
+points, fan contests and user-generated content, educational posts, and posts 
+highlighting specific times or dates.
+
+• They found that: brand posts on Facebook that indicated something was new received 
+more shares and comments. Posts that emphasized a date or time, such as a deadline to 
+complete an action, received more shares. Educational posts, on the other hand, 
+received fewer likes and comments. Interestingly, promotional posts, contest posts and 
+posts related to social or CSR causes were not associated with any of the three 
+engagement metrics: shares, likes and comments.
+
+
+
+Shahbaznezhad, H., Dolan, R., & Rashidirad, M. (2021). The Role of Social Media 
+Content Format and Platform in Users’ Engagement Behavior. Journal of 
+Interactive Marketing, 53(1), 47-65. https://doi.org/10.1016/j.intmar.2020.05.001
+
+• The level of engagement varies from simple types of engagement (e.g., "liking" a post on 
+Instagram) to larger types of customer engagement in co-creation activities (e.g., posting 
+reviews).
+
+• Instagram users (fans) appear to be more passively engaged, compared to Facebook fans, who 
+tend to demonstrate more active behaviour in the form of comments →Facebook can typically 
+be used on a desktop device versus the mobile app, allowing users to more easily type 
+comments compared to those on their phone → if a goal of social media content is to collect 
+rich feedback through comments and discussion, this finding suggests that Facebook may be a 
+more suitable platform.
+
+• When posting content strategically, using the 'photo' format will generate significantly more 
+likes than comments. This can be a powerful tool for boosting the 'virality' of a post, inspiring 
+social media managers to consider the impact of visual content on engagement. 
+
+• In the case of emotional content, the use of video format will stimulate active user engagement 
+(in the form of comments). Travel companies that might want to communicate a strong 
+emotional message and get active engagement (comments) should, therefore, use videos in 
+their content.
+
+• The number of comments on a post and the sentiment of these comments significantly boost 
+the number of likes on the post → positive and active engagement in the form of comments 
+increases the continued virality of the post in the form of likes. 
+
+• Fans tend to express their opinion and write more comments with a negative sentiment than a 
+positive one. Managers, as well as researchers, need to better understand the implications of 
+negative comments and word-of-mouth on social media platforms, as this could be potentially 
+damaging to a brand.
+
+
+
+Social Media Content Strategy
+
+
+
+Content creators
+
+•  The term content creator is defined as "the 
+marketing and professionalization of native social 
+media users who generate and distribute original 
+content in close interaction and engagement with 
+their communities on mainstream social media 
+platforms as well as offline" (Cunningham and Craig, 
+2021, p. 1). 
+
+• Creators are now nicknamed in many ways: 
+influencers, bloggers and vloggers, gameplay- ers, 
+live streamers, camgirls, broadcast jockeys (Korea) 
+and, in China, KOLs (key opinion leaders), Zhuo and 
+wanghong, among others. 
+
+• They can also be referred to according to the 
+platform used - eng. YouTubers, tweeters (Twitter), 
+grammers (Instagram) and snappers (Snapchat). 
+
+• Researchers have also used other terms such as 
+micro-celebrities (Abidin, 2016), 
+
+• many SM content creators have gone on to develop 
+greater cultural influence than many 'mainstream' 
+celebrities (actors, painters, sculptors, TV people and 
+so on): e.g., Huda Beauty (Dubai), Chiara Ferragni 
+(Italy), PewDiePie (UK), Ninja (US).
+
+
+
+The power of social media 
+platforms
+• This focus on platforms represents a significant shift from the 
+
+relatively decentralised online ecosystem that characterised 
+Western digital media from the late 1990s to the middle of the first 
+decade of this century, in which a variety of competing social 
+networking services and DIY websites or blogs coexisted on a 
+single, common platform (the World Wide Web), itself built on the 
+public Internet.
+
+• The digital evolution that has been achieved by expanding the 
+reach and connections between social media platforms and 
+creating data streams and interfaces with other websites has led to 
+"the rise of [the] [digital] platform [model] as the dominant 
+infrastructural and economic model of the social web" (Helmond, 
+2015, p. 1). 
+
+• This 'platformisation' signifies not only that platforms such as 
+YouTube, Facebook, or Instagram have great power in the 
+information and creative content industries but also that their 
+logic—their mode of operation and their value systems (editorial 
+politics)—are reshaping society and culture more profoundly 
+(Burgess 2015; Cunningham and Craig, 2021). 
+
+• Content creators have played a major role in building cultures and 
+audiences on platforms, but it is also true that platforms have the 
+power to transform or disrupt the careers of creators. 
+
+• Platform logics shape what counts as value (for example, audience 
+attention or engagement) and how that value is measured 
+(whether by clicks, subscriptions, viewing time, or a combination of 
+these).
+
+
+
+The power of social media 
+platforms
+
+• Due to their ability to create communities where users feel 
+more connected to influencers through higher levels of 
+engagement, authenticity, and trustworthiness, social media 
+celebrities have an advantage when it comes to promoting 
+products: social media celebrities' degree of influence on 
+consumers is higher due to more effective audience 
+penetration and more effective influence to buy (Nouri, 
+2018). 
+
+• Substantially captures consumers' attention and spending to 
+drive higher sales and draw more attention to brands
+
+• Current trends in corporate social media platforms (e.g., 
+Facebook, Instagram, Twitter, TikTok, Youtube) have been to 
+adopt a much less open and centralized approach to 
+innovation geared towards a policy of growing user data 
+markets, which has made open access to data less 
+applicable. 
+
+•  because of their cultural power, their role in extreme 
+discourses, and the rise of far-right subcultures, as well as 
+growing concerns about the exploitation of user data for 
+commercial purposes without regard for privacy, SM 
+platforms should be carefully studied and scrutinised (not 
+only by researchers but also by authorities)
+
+
+
+Recommendations for content 
+creation
+
+• Content creation should take into account the specifics 
+of the audience, the specifics of the platform and, of 
+course, the proposed communication objectives (of 
+the company or the content creator)
+
+• Adapting to the audience's requirements is a data-
+driven process. It involves using our insights about the 
+audience and the current digital trends provided by 
+SM monitoring companies like Hootsuite and We Are 
+Social.
+
+• Adaptation to platform specifics: platform policy 
+(terms and conditions, editorial policy), platform 
+functions and features and specific content trends.
+
+• Other rules: specific digital copywriting rules (see: 10 
+Copywriting Tips to Rock Your Digital Marketing și 
+What Is SEO Copywriting?)
+
+
+
+YouTube
+
+• YouTube policy:
+• Terms and conditions: 
+
+https://www.youtube.com/static?&template=te
+rms 
+
+• YouTube policies: 
+https://support.google.com/youtube/topic/280
+3176?hl=en&ref_topic=6151248
+
+• YouTube's Community Guidelines: 
+https://support.google.com/youtube/answer/9
+288567
+
+See: https://youtu.be/PO5z1bqW5yY
+
+• For creating content: 
+https://www.youtube.com/creators/
+
+
+
+Facebook
+
+• Terms: https://www.facebook.com/terms.php 
+
+• Meta Business Suite: 
+https://www.facebook.com/business/learn/lessons/
+creator-studio-overview 
+
+• Basic guide for content creators: 
+https://www.facebook.com/business/learn/series/c
+ontent-creators
+
+
+
+TikTok
+
+• https://creatormarketplace.tikt
+ok.com
+
+• Terms and conditions: 
+https://www.tiktok.com/comm
+unity-guidelines?lang=ro-RO
+
+
+
+Instagram
+
+• Community rules:
+• https://help.instagram.com/47
+
+7434105621119# 
+
+• Terms of use: 
+https://help.instagram.com/58
+1066165581870/?helpref=hc_f
+nav 
+
+• Meta Platform Terms
+
+https://developers.facebook.com
+/terms 
+• Help Center(Instagram 
+
+features, Privacy, security 
+reporting, staying safe)
+
+https://help.instagram.com/1417
+489251945243/?helpref=breadcr
+umb 
+
+
+
+Homework:
+
+Based on the materials outlined here about 
+Facebook, YouTube, Instagram and TikTok's 
+content and usage policies, answer the 
+following questions:
+
+？What are the main rules of use of the four
+platforms presented?
+？What types of content can be uploaded to these
+
+platforms?
+？What control strategies do these platforms apply
+
+to uploaded content? Who monitors (supervises)
+the uploaded content?
+？Why are certain types of content removed from
+
+these platforms? Which types of content are
+removed?
+？Can the content be monetised on these
+
+platforms? How?
+
+
+
+Social Media Audiences
+
+• Audiences in social media are actively making 
+their presence felt by shaping media streams, 
+and brand producers and managers, as well as 
+corporate communicators, are hard at work 
+serving business needs, listening and 
+responding to audience requests/feedback in a 
+timely, active way (Jenkins, 2013, p. 2).
+
+• Audience segmentation - audience 
+segmentation
+
+• Demographic, psychographic
+
+➢ https://youtu.be/91D5hjMEADg?si=kzEeBAfVgBDgOdHW
+➢ https://youtu.be/7ITff1fIbSc?si=Z8mIwONIGE48dpO1
+
+
+
+What we should
+know (?)
+
+
+
+• Content on social media platforms 
+reflects the individual's online identity 
+and provides factual data about the 
+individual.
+
+• https://hbr.org/2016/08/to-get-more-
+Content on out-of-social-media-think-like-an-
+
+Social Media anthropologist 
+
+Platforms
+• In an effective communication process, 
+
+you need to understand your audience/ 
+dialogue partner.
+
+• Listen and understand
+• Social Media Listening
+
+
+
+Social Media Listening vs Social 
+Media Tracking
+
+• Social media listening -why your audience says certain 
+things about or related to your brand in SM. 
+
+•  Social media tracking - how they tell them.
+
+• Social media listening - a great way to track what customers 
+and potential customers have to say about your business, 
+product/service, content, support and more; involves 
+monitoring your brand's social media profiles for customer 
+feedback, direct mentions of your brand, and any 
+conversations with relevant keywords, topics, competitors 
+or industries → then the results are analysed and the 
+findings help determine the best ways to improve your 
+social media strategy, brand awareness and SM presence.
+
+• Social media tracking is often also referred to as social 
+media monitoring. It involves identifying and responding to 
+mentions of the brand (keyword) on social media through 
+comments, direct messages, and more. Social media 
+monitoring is the first step in the process of understanding 
+what audiences think and say about a brand on social 
+media.
+
+
+
+Why it is important to be 
+able to listen to SM 
+content
+
+• Carolyn Mae Kim (2016, p.32): “The goal is to 
+identify what conversations are taking place on 
+social media platforms that are relevant to the 
+brand, who is having those conversations, and 
+ways in which the organisation can engage in 
+that dialogue.”
+
+• Social Media listening allows you to track, 
+analyse, and respond to conversations about 
+yourself (as an individual, organisation, or 
+product brand) on Social Media channels. 
+
+• Tracking conversations on SM is an essential 
+component in audience research and audience 
+targeting.
+
+
+
+Social Media listening does not coincide with SM tracking. 
+
+Conversation listening takes a broader perspective. It doesn't 
+just look at the numbers; it looks at interpreting the facts/how 
+people think about you, your competition, and the sector you 
+are in.
+
+How? Methods of 
+monitoring conversations
+
+• Keyword monitoring
+
+• Audience screening
+
+• Audience analysis
+
+• Competition monitoring
+
+
+
+Monitoring keywords
+
+• Identifying words and sentences relevant to your 
+business/organisation/your client
+
+• How do we identify them?
+• Some examples: mentioning the name of the 
+
+brand/company/person
+• Relevant hashtags
+• mentioning competitors
+• Industry trends
+• statistics
+
+What are people saying about us?
+
+Create an account on Social Searcher and apply:
+https://www.social-searcher.com/ 
+
+
+
+This Photo by Unknown Author is licensed under CC BY-SA-NC
+
+Google Alert:
+• https://ahrefs.com/blog/how-to-set-up-google-alerts/
+• https://mention.com/en/blog/how-to-set-up-google-alerts/
+
+
+
+How do we search?
+
+• "Manual" searches
+
+• Using specialized software:
+• https://www.hootsuite.com
+
+• https://www.meltwater.com/en
+
+• https://www.hubspot.com
+
+• https://buzzsumo.com
+
+
+
+Social Media 
+Monitoring & 
+Listening Apps
+
+• Hootsuite (price: from $99/month, 30-day 
+demo)
+
+• Sprout Social (price: from $199/month, 30-
+day trial)
+
+• HubSpot Marketing Hub(price: from 
+$792/month, limited free options)
+
+•  Brandwatch (price via consultant, solution 
+packages)
+
+• Buffer – (free +plans from $5) 
+https://buffer.com 
+
+• BuzzSumo - (price: from $199/month 
+different plans and services)
+
+•  Mention – price: from $49/month, trial
+
+• Determ (ex Mediatoolkit) - (price via 
+consultant, solution packages)
+
+
+
+Sentiment analysis
+
+• There's so much data posted daily on social media that it 
+can be hard to keep up. Not only do you want to know 
+what's being said about your own business, but you want to 
+know what's being said about your competitors, the 
+industry sector and emerging trends among your 
+customers. You want to be in the know.
+
+• Social media sentiment analysis is the process of 
+interpreting and determining whether text data collected in 
+social media is positive, negative or neutral. This analysis is 
+not limited to simply collecting and counting the number of 
+mentions, comments or hashtags.
+
+• Sentiment analysis doesn't just collect and count mentions, 
+comments, or hashtags. It goes deeper, providing a 
+profound understanding of the attitudes, opinions, and 
+emotions behind the text. For instance, a post collected 
+from Facebook might mention your brand in a positive or 
+negative light  , offering valuable context beyond mere 
+numbers. This depth of understanding can make you feel 
+more enlightened and knowledgeable about your brand's 
+perception.
+
+• Sentiment analysis gives way to an even deeper analysis of 
+MS mentions. For example, once we know that the 
+predominant underlying sentiment is negative, we can look 
+deeper for causes and take action.
+
+
+
+Online sentiment scoring - is the assessment of 
+sentiment generated by a keyword, over a period of 
+
+time.
+hhttpts:t//psprsou:ts/oc/iasl.cpomr/ionsiguhtst/ssocoialc-mieadial-.com/insights/social-media-
+
+ssenetimnentt-iamnalyseis/nt-analysis/ 
+
+Audience 
+screening - Sentiment analysing tools (Brandwatch, Talkwalker, 
+
+Hootsuite Insights, Lexalytics)
+Sentiment 
+scale
+
+hhttpts:t//plinks.s:p/rin/gelri.cnomk/a.rtsiclep/1r0.i1n007g/se007r7.9c- om/article/10.1007/s00779-
+00191-01936-1-07 1361-7
+
+https://www.sciencedirect.com/topics/computer-
+science/sentiment-score
+
+
+
+Uses of sentiment analysis in 
+social media
+
+• Audience insights and changing consumer trends - 
+understanding the audience's thoughts, opinions, 
+perceptions and feelings → we need to keep up; 
+consumer mindsets change over time, as is natural.
+
+• Tracking brand mentions, related 
+products/services, and key people is not just a 
+task; it's a valuable tool → This comprehensive 
+approach builds a solid base for analysis  , 
+providing reassurance about the effectiveness of 
+our brand positioning strategies.
+
+• Brand reputation analysis over time - an insight 
+into how the public feels about the brand over 
+different time periods →we can track how specific 
+actions affect brand reputation and positioning, 
+e.g., Pepsi & Kendall Jenner (see: 
+https://www.nytimes.com/2017/04/05/business/k
+endall-jenner-pepsi-ad.html  OR 
+https://www.amausf.org/single-post/how-kendall-
+jenner-caused-millions-in-losses-for-pepsi-with-a-
+single-advertisement)
+
+
+
+Uses of sentiment analysis in 
+social media
+
+• Comparing our brand image with that of our 
+competitors  is not just a benchmarking exercise. 
+It's a powerful motivator, showing us what we can 
+do to enhance our social media strategy and stay 
+ahead in the game.
+
+• Monitoring brand performance on different SM 
+platforms - comparing the number of brand 
+mentions and analysing sentiment on other 
+channels, → we can see where the brand is 
+performing in the best and worst  ways to 
+improve interaction and engage more with the 
+audience; we see how well a particular social 
+media channel is working or not working for our 
+brand.
+
+
+
+Benefits 
+
+(1) analysis of the progress over the years
+
+(2) an overview of the main progress 
+achieved so far; and
+
+ (3) highlighting outstanding limitations
+
+
+
+See: • Social Media Sentiment 
+Analysis: Tools and Tips for 
+2025: 
+https://blog.hootsuite.com/soci
+al-media-sentiment-analysis-
+tools/ 
+
+
+
+Hootsuite Insights Powered by Brandwatch
+(https://youtu.be/wkUngiQISHE?si=npHvxaEx
+_9-ve7WR)
+
+
+
+Latest Top 5 Open Source 
+Sentiment Analysis Tools & 
+
+Their Pros and Cons
+
+https://research.aimultiple.com/open
+-source-sentiment-analysis/ 
+
+
+
+• Setting and identifying audiences - 
+public relations: 
+
+• Building an audience persona: 
+(https://wiredimpact.com/blog/target-
+audience-persona-
+development/#:~:text=What's%20the%2
+0Difference%20Between%20Target,supp
+orters%20on%20a%20personal%20level)
+
+Audience analysis • Facebook Insights: 
+https://moz.com/blog/facebook-insights-
+create-audience-personas-budget 
+
+• https://blog.hootsuite.com/facebook-
+analytics-insights-beginners-guide/ 
+
+• https://youtu.be/hemZDcEpjT8 
+
+Also see: https://ijoc.org/index.php/ijoc/article/viewFile/932/747 
+
+
+
+• Social Media Metrics
+
+• What are we measuring?
+Number of fans, followers, visitors, views, new and returning 
+visitors, active and inactive users, positive and negative likes, 
+
+Social Media ratings and reviews, downloads and uploads, shares, bookmarks, 
+comments, sentiments, referral keywords, referral sources, 
+
+Measurement influencers, key influencers, etc.
+
+& Analysis • Indicators: share of voice (relative percentage of brand name 
+mentions compared to competition), audience engagement, 
+conversation reach (presence in conversations or degree of access 
+to conversations with target audience/audience), active advocates, 
+advocate influence, advocacy impact, resolution rate, resolution 
+time, satisfaction score, topic trends, sentiment ratio and idea 
+impact– adapted from Lovett (2011, p. 156)
+
+
+
+Lovett (2011, p.193)
+
+
+
+Lovett, 2011, p. 173
+
+Lovett, 2011, p. 176
+
+For more indicators and their definition/explanation see Lovett (2011, pp. 161-195)
+
+KPI = Key Performance Indicators
+
+
+
+ROI measurement
+https://blog.hootsuite.com/measure-social-media-roi-business/
+
+Reach
+
+Audience engagement
+
+Platform traffic
+
+Leads generated
+
+New visitors/ new followers
+
+https://blog.zoominfo.com/social-media-increase-revenue/
+
+Lead/ revenue – https://blog.zoominfo.com/social-media-increase-revenue/   
+
+
+
+See also:
+https://youtu.be/o35Fs-Ik9FA 
+
+
+
+Mandatory
+reading:
+
+Shahbaznezhad, H., Dolan, R., & 
+Rashidirad, M. (2021). The Role of 
+Social Media Content Format and 
+Platform in Users’ Engagement 
+Behavior. Journal of Interactive 
+Marketing, 53(1), 47-
+65. https://doi.org/10.1016/j.int
+mar.2020.05.001
+
+
+
+References:
+inter al.
+• Abidin, C. (2016). Visibility labour: Engaging with Influencers’ fashion brands and# OOTD advertorial campaigns 
+
+on Instagram. Media International Australia, 161(1), 86-100 
+• Berger ([2013] 2015): Contagios: Cum se răspândesc ideile, Publica
+• Berger, J., & Milkman, K. L. (2012). What makes online content viral?. Journal of marketing research, 49(2), 192-
+
+205
+
+• Burgess, J. (2015). “From ‘Broadcast Yourself!’ to ‘Follow Your Interests’: Making Over Social Media.” 
+International Journal of Cultural Studies 18 (3): 281–285. 
+
+• Burgess, J. (2018). YouTube: Online Video and Participatory Culture. 2nd ed. Polity.
+• Cunningham, S., & Craig, D. (2021). Creator Culture: An Introduction to Global Social Media Entertainment. New 
+
+York University Press
+• Helmond, A. (2015). The platformization of the web: Making web data platform ready. Social media+ 
+
+society, 1(2)
+• Nouri, M. (2018). The power of influence: Traditional celebrity vs social media influencer. Pop Culture
+
+Intersections. 32.
+https://scholarcommons.scu.edu/engl_176/32
+
+• Quesenberry, K. A., & Coolsen, M. K. (2019). What makes Facebook brand posts engaging? A content analysis of 
+Facebook brand post text that increases shares, likes, and comments to influence organic viral reach. Journal of 
+Current Issues & Research in Advertising, 40(3), 229-244
+
+• Shahbaznezhad, H., Dolan, R., & Rashidirad, M. (2021). The Role of Social Media Content Format and Platform
+in Users’ Engagement Behavior. Journal of Interactive Marketing, 53(1), 47-65. 
+https://doi.org/10.1016/j.intmar.2020.05.001.
+
+• Talwar, S., Dhir, A., Kaur, P., Zafar, N., & Alrasheedy, M. (2019). Why do people share fake news? Associations
+between the dark side of social media use and fake news sharing behavior. Journal of Retailing and Consumer
+Services, 51, 72-82. 
+
+• Zarrella, D. (2011). Zarrella's Hierarchy of Contagiousness: The Science, Design, and Engineering of Contagious
+Ideas. Do You Zoom, Incorporated.

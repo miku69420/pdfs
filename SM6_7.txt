@@ -1,0 +1,1180 @@
+﻿C7. Key concepts and theories for studying Social 
+Media
+
+Nume Prenume
+
+Assoc. Prof. Arabela BRICIU
+
+
+
+Why do social networks
+exist and how do they
+influence us?
+
+Five rules regarding connection and contagion—the
+structure and function—of social networks
+
+Christakis and Fowler (2009, pp. 16-26):
+
+1. WE SHAPE OUR NETWORK 
+
+2. OUR NETWORK SHAPES US 
+
+3. OUR FRIENDS AFFECT US 
+
+4. OUR FRIENDS’ FRIENDS’ FRIENDS AFFECT US 
+
+5. THE NETWORK HAS A LIFE OF ITS OWN 
+
+
+
+• Source: Christakis & Fowler 
+(2009, p. 296)
+
+
+
+Network Science
+
+• Albert-László Barabási (https://barabasi.com/book/)
+
+• Martin Grandjean (http://www.martingrandjean.ch)
+
+
+
+Cărți traduse în 
+peste 20 de 
+
+limbi
+
+
+
+Social networks theories
+
+GRANOVETTER, Mark (1973) : The strenght of weak ties
+
+• Any positive and symmetrical social tie can be evaluated according to
+its strength, which depends on:
+• Time invested
+• Mutual trust (privacy)
+• Emotional intensity
+• Degree of reciprocity
+
+• Strong ties : A and B spend a lot of time together, trust each other, get
+emotionally involved and do each other favours.
+
+• Weak ties : A and B rarely interact, little trust in each other, low
+emotional involvement
+
+• Absent ties : Non-existent and insignificant - A has interacted with B 
+little in some context
+
+
+
+Absent tie
+
+Strong, weak, absent ties
+
+
+
+https://youtu.be/g3bBajcR5fE
+
+This Photo by Unknown Author is licensed under CC BY-SA-NC
+
+Granovetter's study - The Influence of Social Ties on Occupational Mobility
+(see Granovetter, 1983- supplementary bibliography)
+
+
+
+The Strength of Weak Ties
+
+• Homophily (similarity): individuals prefer to interact with similar alters
+• Cognitive balance: alters with whom an ego has strong ties will, in turn, 
+
+develop positive ties with each other...if not strong, at least weak. 
+• Bridge ties: between pairs of nodes that would otherwise be far apart
+
+(Granovetter demonstrates that these are most likely weak ties).
+• Actor A's bridges allow ties to nodes to which A's friends have no ties -
+
+they allow access to new information
+→Weak ties are much more likely to provide new information and are 
+
+surprisingly strong
+→Weak ties give individuals access to information and resources other
+
+than those available in their social circle or neighbourhood.
+
+• Another of Granovetter's concepts, developed based on social 
+relationships and networks and their importance in the economy, is
+embeddedness: https://youtu.be/KXGbCjzmm2M
+→ the degree of involvement of an 'entity' in a social network
+
+
+
+Example created by Filip Agneessens, Associate Professor at Surrey Business 
+School, University of Surrey (2019, Research in Social Sciences Summer School)
+
+
+
+Source: Christakis & 
+Fowler (2009, p. 297)
+
+
+
+The Small World Problem
+
+Milgram, Stanley (1967): the probability of any 2 people to know each other
+• Two approaches on society and the world:
+1. Any two people in the world, no matter where they are located, can be
+connected by acquaintances or ties, and the number of these acquaintances is
+quite small
+2.The world is a collection of groups or social circles that any bridging ties
+cannot connect - his example was related to a message that can circulate in
+one circle of acquaintances but can never pass into another circle of
+acquaintances.
+• Milgram Experiment : https://youtu.be/NRWSF1c0Ez0
+• Six ties between any two people: https://youtu.be/TcxZSmzPw8k
+• Kevin Bacon's game, the distance of any American actor from his fellow
+
+Kevin Bacon: https://youtu.be/n9u-TITxwoM
+
+
+
+
+
+
+• The idea of the six degrees of separation is that: two individuals,
+anywhere in the world, can be connected by a chain of six or fewer
+acquaintances.
+
+→This means that while Ion doesn't know Maria, she knows Iosif, who
+knows Iana, who knows Maria. Thus, Ion is three intermediaries away
+or three degrees of separation.
+→the distance between any two nodes in a network is unexpectedly
+small→ "we live in a small world".
+
+
+
+Pioneers
+
+
+
+Lanțul slăbiciunilor- I.L. Caragiale (1952)
+The Chain of weaknesses- Romanian literature
+
+https://youtu.be/Vd9_5pVT09E?si=TDCaESyXz91XQsrV
+
+
+
+Separation degrees of the …
+mathematicians
+Hollywood actors
+clusters
+
+Erdős number - the distance between any two mathematicians by Paul Erdős https://youtu.be/izdZPx89ph4
+https://youtu.be/izdZPx89ph4 
+
+The Kevin Bacon game - the distance any Hollywood actor is from Bacon  https://youtu.be/vOUdy2J0lfU
+https://youtu.be/vOUdy2J0lfU 
+
+Barabasi and Jeong: the nineteen degrees of separation of the ( www) https://youtu.be/qmCrtuS9vtU
+https://youtu.be/qmCrtuS9vtU
+
+       httptps:s//:y/o/yutouu.bteu/.Rbfgej/HRoVfgCjZHwoUV?sCi=ZDwyXUa?asJqi=FaDqy9XWa2aHJ8qcFaq9W2H8c 
+
+Watts și Stogartz (1998): crowding goes beyond social 
+networking - remote connections https://youtu.be/QUWds9gt6aE
+
+https://youtu.be/QUWds9gt6aE 
+
+
+
+3.5 degrees of separation on Facebook
+
+• https://research.facebo
+ok.com/blog/2016/2/thre
+e-and-a-half-degrees-of-
+separation/ 
+
+
+
+Groups, cliques, clusters Structural hole 
+theory(Burt,1992, 2000, 
+2010)
+
+• In general, not all possible connections exist 
+between members of a network, a phenomenon 
+known as structural holes. Better connected 
+individuals are more informed and influential, but 
+they are also more subject to influence from 
+others. 
+
+• There are homogeneous networks in terms of 
+the degree of connectedness of nodes and others 
+where there is a small elite of centrally located 
+and well-connected individuals alongside a large 
+mass of relatively isolated actors. Differences in 
+the degree of connectedness are relevant to the 
+order and hierarchy within the group. 
+
+Structural holes
+
+This Photo by Unknown Author is licensed under CC BY-SA-NC
+
+
+
+
+
+
+01
+03
+
+02
+
+Within a network, there 
+Within one group, 
+
+are groups and sub-
+individuals who can 
+
+groups that communicate 
+Structural holes indicate how provide bridges 
+
+more intensively with 
+actors are grouped in between distinct 
+
+each other than with the neighbourhoods—when there groups within the 
+network are more 
+
+rest of the network is a structural hole between A important for 
+- Dyads and B, exchanges between the network 
+- triads two cannot be carried out communication than 
+- small groups because they are either individuals with 
+
+unaware of each other or have multiple ties.
+high transaction costs.
+
+Thus, another actor C who has a 
+tie to both actor A and actor B 
+has the advantage of influencing 
+exchanges or choosing between 
+the two
+
+
+
+Tertius gaudens (Simmel, 1950) 
+is the person who gains an advantage 
+from the division of two other actors 
+and is defined as "the third one who 
+wins". 
+
+• An individual dealing with a structural 
+hole is in control by having the power to 
+negotiate the relationship between two 
+actors divided by that hole. 
+
+• The power of structural holes is given by 
+the opportunity to control and negotiate 
+the relationship between the two actors 
+who have valuable information, which 
+highlights the theory's relevance for 
+Internet networks.
+
+• Burt (2000, p. 355) observed that 
+accurate, ambiguous, or distorted 
+information strategically transmitted 
+between contacts by the "tertius" can 
+turn into informational strategies in which 
+information is altered or suppressed to 
+distance „alters” or create conflict.
+
+This Photo by Unknown Author is licensed under CC BY-SA
+
+
+
+• Tertius iungens intermediation may involve the 
+desire to create or build a network by combining 
+resources or by including and connecting certain 
+nodes, but it may also involve simultaneously 
+excluding other nodes or enhancing the 
+reputation of the intermediary node by creating 
+valuable introductions (with other nodes).
+
+The broker can exploit his 
+alters by introducing them 
+to valuable nodes or by 
+determining gaudens-like 
+
+This Photos by Unknown Author is licensed under CC BY-SA
+orientations to keep 
+competitors or combatants 
+at bay. 
+
+• Tertius Iungens's activities can generate selfish inclinations, 
+oriented towards individual well-being, which can harm the 
+network.
+
+• See: https://youtu.be/llOED28rf54 
+
+
+
+• Burt, 1992: there are two types of benefits from structural 
+holes in networks: information and control
+
+• INFORMATION (structural gaps lead to informational 
+benefits for actors inside and outside the network because 
+they bring a new input of information - unknown to one of 
+
+The theory the parties → The connected individuals are more informed 
+but also more subject to the influences of those around 
+them)
+
+of structural • actors with access to diverse information can make better use of 
+it
+
+holes(Burt,1 • actors with solid connections are the first to know important 
+information. 
+
+• actors who manage structural holes in a network enjoy higher 
+
+992) rates of return on their investments, know the context better, 
+and get more profitable opportunities. 
+
+• CONTROL (the advantages of being a key player in a well-
+connected network)
+
+• : Well-connected central actors to various mutually 
+unconnected groups have more bargaining opportunities 
+than peripheral ones, so they can control most of the 
+information flows within the network. 
+
+
+
+The theory of structural holes(Burt,1992, 2000, 2011)
+
+•Burt (1992, 2000, 2010): the benefits an individual 
+derives from their network (ego-network) of contacts 
+vary according to :
+
+• Size (number of ties): the more alters an ego has, the greater the 
+chance that one of the alters has the resources the ego needs.
+
+• Density: an ego is much more advantaged if the density of links 
+between alters is lower (the chances of obtaining non-redundant 
+information increase) -(Burt, 2000)
+
+• Heterogeneity: various alters (gender, age, race, occupation, 
+functions, skills, etc.)
+
+• Compositional quality: the number of alters who hold high levels of 
+resources that the ego needs. The more connected an ego is to the 
+alters they need, the more social capital they are expected to have.
+
+See: https://youtu.be/GaQLRCaLQG4 
+
+
+
+https://youtu.be/VngfnLGRy5Y
+
+Burt, 2015:
+
+
+
+• Individuals in the network end up developing 
+common values, beliefs, attitudes, behaviours, 
+and practices: CONTAGION– Burt (1987)
+
+Theories 
+concerning the • Influence increases more in networks with 
+
+higher cohesiveness than in those with 
+consequences lower cohesiveness
+
+of social • Actors occupying similar positions in the 
+network usually share common 
+
+networks characteristics - same social status, same 
+behavioural traits
+
+Physical proximity →Social proximity 
+(friendship) →Common attitudes
+• The more frequent and empathetic the 
+
+interaction between A and B, the more 
+likely B is to adopt an attitude, belief, etc. 
+that A has adopted. 
+
+
+
+• Social networks influence Nicholas Christakis (TED Talks)- (optional 
+/supplementary)
+• https://www.ted.com/talks/nicholas_christakis_the_hidden_influence_of_social_
+
+networks/footnotes#t-54396
+• https://www.ted.com/talks/nicholas_christakis_how_social_networks_predict_ep
+
+idemics#t-109721   
+
+• Studies:
+• Fowler, James H. și Christakis, Nicholas A., 2008.  “Dynamic spread of 
+
+happiness in a large social network: longitudinal analysis over 20 years in the 
+Framingham Heart Study” - see  http://nrs.harvard.edu/urn-
+3:HUL.InstRepos:3685822  (optional /supplementary)
+
+•  Nicholas A. Christakis și Fowler, James H. 2007, The Spread of Obesity in a 
+Large Social Network over 32 Years  (optional /supplementary)- see 
+https://www.nejm.org/doi/full/10.1056/NEJMsa066082 
+
+
+
+Source: Christakis & 
+Fowler (2009, p. 299)
+
+
+
+Information sharing on social 
+networks
+
+Burt (1999) argues that there are two 
+OPINION LEADERS on the network - 
+
+(2) mechanisms of sharing information 
+network centrality
+
+within a network:
+
+• through a two-step communication • - Individuals with a high degree of 
+flow: opinion leaders disseminate centrality in the network are likely to 
+information to the group be opinion leaders of the network
+
+• contagion →through structural • - Individuals with a high degree of 
+equivalence that generates adoption "connectivity" (betweenness) serve 
+of behaviour within the group as bridges; nodes that link clusters - 
+
+GATEKEEPERS
+• - Structural hole spanners are more 
+
+likely to connect the most important 
+nodes (opinion leaders)
+
+
+
+• Opinion leaders control the flow of 
+information within the community; 
+whereas
+
+• SOURCE: Lou și Tang (2013) –
+http://keg.cs.tsinghua.edu.cn/jietang/publicati • Structural Hole Connections dominate 
+ons/WWW13-Lou&Tang-Structural-Hole- the distribution of information 
+Information-Diffusion.pdf , acces s ed October between communities
+2023;
+
+
+
+MASS COMMUNICATION THEORIES
+Media theories
+
+
+
+„Media is the message” (McLuhan, 1964)
+
+
+
+Media – Mass communication
+
+• Media – plural medium → communication channel
+• from print to digital data, including various forms of information. 
+• Anything that can reach or influence people, including telephones, television 
+
+and the internet, can be considered a form of media.
+
+• Mass communication: the process by which a complex entity 
+produces and broadcasts, through one or multiple devices, public 
+messages to a huge, heterogeneous and dispersed audience.
+
+• It involves encoding and decoding in several stages
+• Noise: semantic, background and machine noise
+
+
+
+The defining features of classic mass 
+communication(Dominick, 2009, p. 16)
+
+• Complex and formalised organisations produce mass communication
+• Mass communication organisations have several gatekeepers
+• Mass communication organisations need large amounts of money to 
+
+operate
+• Mass communication organisations exist to make a profit
+• Mass communication organisations are highly competitive
+
+Do these still apply to the current media context governed by Social Media platforms?
+
+
+
+Early theories in media studies
+
+• Hypodermic needle or magic 
+bullet theory or the described 
+tape theory (propaganda)
+
+• Two- or n-step communication 
+model
+
+• Gatekeeping theory
+
+
+
+Magic bullet theory
+
+https://youtu.be/Qt5MjBlvGcY
+
+• Assumption: The media has a direct, immediate, and consequent effect on its 
+audience.
+
+• A media message is ''injected'' entirely into the audience's consciousness (which is 
+passive) and is wholly accepted.
+
+• The media message is a bullet fired from the 'media gun' into the 'head' of the 
+audience.
+
+• Harold Lasswell proposed the magic bullet theory after the First World War. As 
+radio, films, and commercials gained massive popularity between the 1930s and 
+1950s, the effects of the media on people's behaviour seemed obvious.
+
+• Factors:
+• The emergence and popularisation of radio and television.
+• The emergence of persuasive industries such as advertising and propaganda.
+• The Payne Fund studies of the 1930s looked at the impact of cinema films on children
+• Hitler's monopolisation of the media during World War II to unite the German public behind 
+
+the Nazi party. 
+• To the casual observer, people seemed truly powerless to resist the messages 
+
+coming from the media. For the first time, messages were crafted for a target 
+audience to elicit specific responses.
+
+
+
+Specific assumptions of the hypodermic 
+needle/magic bullet theory
+
+• Humans react in a uniform way to stimuli.
+• The media message is 'injected' directly into the 'blood' of a 
+
+population, like fluid from a syringe.
+• Messages are strategically created to elicit desired responses.
+• The effects of media messages are immediate and powerful, capable 
+
+of causing significant behavioural changes in people.
+• The public cannot escape the influence of the media.
+
+
+
+Gatekeeping theory
+Assumptions: gatekeepers are, at a high level, the data 
+makers who control the flow of information to an entire 
+social system. Based on personal preferences, 
+professional experience, social influences or biases, they 
+allow certain information to flow to their audience.
+
+• Lewin (1947, 1951), the creator of the concept, analysed gatekeepers 
+from a psychological perspective, investigating how and why families' 
+eating habits and activities differ. In the groups he examined, he observed 
+that housewives controlled decision-making about eating habits and 
+activities by creating behavioural barriers and incentives; Lewin referred 
+to these housewives as gatekeepers.
+
+• Gatekeeping is selecting and filtering the media content that can be 
+consumed in the time and space available to an individual. This means 
+that gatekeeping falls into a surveillance and monitoring role. These 
+gatekeeping decisions are made daily to select the relevant items the 
+audience will see. 
+
+• The gatekeeper decides what information should pass through it (through 
+the information "gate") to the group or individuals beyond and what 
+information should not. 
+
+https://youtu.be/vwiD5OC0hN0?si=3zMCRk2HFdLE6py3
+
+This Photo by Unknown Author is licensed under CC 
+BY-NC-ND
+
+
+
+Limited effects theory
+• The theory of limited effects was proposed by 
+
+                    sociologist Paul Lazarsfeld. 
+
+• Assumption: even if the media affects individuals' thoughts and 
+opinions, this effect is minimal or limited at best.
+
+• The theory was developed in response to the magic 
+bullet/hypodermic needle theory, which emphasised the powerful 
+influence of the media.
+
+• Lazarsfeld believes elites and the highly educated are the primary 
+gatekeepers and consumers of media, whose biases affect how and 
+what information is redistributed among those who consume media 
+at much lower levels. 
+
+• Opinion leaders have mitigated or mitigated media effects by 
+discussing and interpreting media messages with their peers.
+
+• By the time they reach adulthood, people have their own 
+perceptions and opinions that are independent of the media. 
+Therefore, their peers and social institutions in general influence 
+people more. The influence of opinion leaders, in particular, far 
+exceeds that of the media.
+
+
+
+The two-step flow of communication model
+• suggests that the flow of information and influence from the 
+
+media to the public involves two stages: from the media to 
+specific individuals (e.g. opinion leaders) and from them to the 
+public.
+
+• General assumption: Interpersonal communication has a stronger 
+impact on individual attitudes than the media itself →Certain 
+individuals are more central and influential in their groups, often 
+acting as intermediaries between the media and the public. 
+Compared to the rest of the population, these individuals were 
+found to be more exposed to the media. 
+
+• Thus, if personal influence was so important, and if it was mainly 
+executed by certain individuals who were more exposed to the 
+media than the people they influenced, then it could be assumed 
+that there was a two-stage flow process from the media to 
+opinion leaders and from them to their followers.
+
+• The concept of a "two-step flow of communication" arose from 
+The People's Choice, a 1948 American polling study by Paul 
+Lazarsfeld and his colleagues at Columbia University's Office of 
+Applied Social Research.
+
+https://youtu.be/csGHExeP3uA
+
+
+
+N steps flow of communication
+
+• The first change to the two-step flow of communication was the introduction of 
+the more-than-two-step flow. 
+
+• This allowed the inclusion of other optional flow directions such as :
+•  horizontal (between leaders, between followers) and vertical (from leaders 
+
+to followers, from active to inactive); 
+• direct (linking two actors directly) and indirect (linking actors through a third 
+
+party or a chain of intermediaries); 
+• top-down (from leaders to followers, from the media to the public) and 
+
+bottom-up (from opinion leaders to the media, from followers to influencers, 
+from the marginal to the central).
+
+See: Ognyanova, K. (2017). 
+„Multistep flow of communication: 
+Network effects”
+https://kateto.net/wp-
+content/uploads/2018/05/Multiste
+p%20Flow%20of%20Communicatio
+n,%20Network%20Effects%20%5BP
+reprint%5D%20-
+%20Ognyanova%20-%202017.pdf
+
+Source: Ognyanova, 2017, p.3
+
+
+
+https://youtu.be/07xlZDLQi9A
+
+Cultivation theory
+
+Assumptions: The media generally presents a picture of the world that does
+not reflect reality. Television images are an exaggeration or fantasy of what
+exists in reality. 
+
+People who watch TV frequently are more likely to be influenced by the
+messages in the audiovisual universe.
+
+• The influence goes so far that people's worldviews and perceptions begin to 
+reflect what they repeatedly see and hear on TV → which contributes to 
+how people perceive social reality.
+
+• Television provides many ideas and conceptions about various social and 
+cultural issues such as race, gender, sexuality, etc. 
+
+• Over time, a fixed image of different groups of people is formed, and viewers 
+begin to absorb these ideas, which they then use as a map to navigate life. 
+
+• This constant exposure to media content cultivates specific values, beliefs, 
+attitudes and desires in people. 
+
+• People unconsciously shape their thought processes and behaviour based on 
+what they consume. 
+
+
+
+Media ecology https://youtu.be/Ko6J9v1C9zE
+
+• McLuhan(1964): „Media is the message” —the communication media with and 
+through which we interact with the world are, in essence, extensions of our sensory 
+apparatus → Each communication medium has a set of intrinsic sensory 
+characteristics designed to enhance our ability to "feel" the world →The study of 
+communication media is, therefore, the study of our sensory extensions.
+
+• Media ecology concerns the effects that media generate, who is affected, how, to 
+what extent, and why.
+
+• Basic assumptions: The media are infiltrated into every fact and action in society. 
+The media fix es our perceptions and organise our experiences. The media connects 
+the world.
+→ Mass media are everywhere and all the time; media determine what we know and 
+how we feel about what we know, and media connect us with others.
+To understand the effects of the symbolic medium, McLuhan divides human history 
+into four periods: the Tribal Age, the Literacy Age, the Print Age, and the Electronic 
+Age. 
+• Social media ecology→ platformization 
+
+For example, with the rise of Instagram Stories/Reels, creators are faced with a new set of 
+content creation possibilities that can be compared to their previous experiences with 
+different platforms and how this impacts their brand subjectivities.
+
+• The platform's infrastructure and technical characteristics affect the production, 
+distribution, and circulation of content. 
+
+• Activities are increasingly becoming "platform dependent" (Nieborg & Poell, 2018) 
+→Content circulation and visibility are subject not only to the terms and conditions 
+of a narrow group of platforms but also to algorithmic infrastructures. Thus, content 
+creation is 'conditioned' by platforms' distribution, analysis, and recirculation 
+conditions (Morris, 2015). See: https://youtu.be/wUPKBrgxbOI
+
+
+
+Uses and gratification
+https://youtu.be/aopqPs7rb_Q
+
+General assumptions: 
+
+ *Audiences take an active role in selecting a medium and interpreting and 
+integrating it into their lives - Audiences have a sense of self-awareness about their 
+motives and needs, which allows them to share their media experiences as active 
+media users.
+
+ *Different types of media compete with each other and with other sources 
+of satisfaction for audience attention.
+ *The media that provides the most satisfaction for a person will be used 
+more often than other types.
+
+"Uses and gratifications" focuses on: 
+"(1) the social and psychological origins of needs (2), which generate expectations (3) 
+from media or other sources (4), leading to differentiated patterns of media exposure (5), 
+leading to need gratification (6) and other consequences (7), perhaps mostly 
+unintended" (Katz et al., 1974, p. 20).
+
+Rubin (2002) includes seven elements in uses and gratifications: psychological and 
+social environment, communication needs and motives, media, attitudes and 
+expectations about media, functional alternatives to media use, communication 
+behaviour, and outcomes or consequences of behaviour.
+
+
+
+Uses and gratification
+• Blumler and Katz (1964) identified several types of needs that motivate 
+
+people to seek satisfaction in media:
+• Cognitive - Refers to the acquisition of information to aid the thinking and 
+
+understanding process. People use media to develop their skills or knowledge in a 
+particular area.
+
+• Affective - Refers to emotions or feelings. People use media to arouse certain 
+emotions in themselves, such as happiness, fear or pleasure.
+
+• Personal Integrative - Refers to promoting one's image, reputation or status. 
+People with this need use media, such as Facebook and YouTube, to enhance their 
+credibility or social standing or to affirm their sense of self.
+
+• Social Integrative - Refers to interaction with family and friends. People use media 
+to connect with others.
+
+• De-stressing - Refers to having fun and reducing stress. People use media as a 
+means of deflection or escape from reality.
+
+• 10 uses and satisfactions for using social media (Whiting and Williams, 
+2013): 
+
+social interaction (88%), seeking information (80%), spending time (76%), 
+entertainment (64%), relaxation (60%), usefulness of communication (56%), 
+expressing opinions (56%), usefulness of comfort (52%), sharing information (40%) 
+and watching and following others (20%).
+
+
+
+Agenda setting
+
+Mc. Combs and Shaw (1972) -
+Early beginnings: Trenaman and The Agenda-Setting Function of 
+McQuail's study of the 1959 UK Mass Media and Cobb and Elder
+
+general election, which was (1971) - The politics of agenda-
+published in Television and the building: An alternative 
+
+Political Image (1961) perspective for modern 
+democratic theory
+
+The media has the power to 
+choose, order and prioritise the 
+
+➔ The media agenda becomes information it is to present to the 
+the public agenda. public, thus setting not only the 
+
+media's agenda but also the 
+public's agenda.
+
+https://youtu.be/C7qf9gQpoF4
+
+
+
+Priming
+https://youtu.be/iMEyTtilIXo
+
+• Priming is the process by which the media, by emphasising certain 
+themes (issues), changes the standards (criteria) by which people 
+evaluate the political agenda and the daily agenda.
+
+• The media gives a certain event a special importance so that it gives 
+people the impression that this news is the most important. 
+
+• This is done on a daily basis. The selected news is broadcast as a 
+headline or covered regularly for months. 
+
+• Terms such as headlines, special news, discussion, and expert opinion 
+are used. 
+
+• The media primes the news by repeating it and giving it more 
+prominence, e.g. the war in Ukraine.
+
+
+
+Framing
+https://youtu.be/f5Ncm-Di5YM?si=b07xq0_zqppcJd9X
+
+• Framing refers to how people attach importance to specific news 
+stories and how they contextualise them → as a process of selective 
+control
+
+• The media sets the frame of reference (frame) for political, 
+economic, and social means, according to which the meaning of 
+events, actions, and public statements is constituted. 
+
+• Assumptions: 
+• News content is usually shaped and contextualised within the same 
+
+frame of reference.
+• Audiences adopt frames of reference and see the world in a similar 
+
+way → to people who attach importance to a news story and 
+perceive the context in which an issue is viewed.
+
+
+
+Third-person effects
+https://youtu.be/UAsIWdGWEuc
+
+• Davison (1983) defines the third-person effect hypothesis as the 
+likelihood that members of an audience exposed to persuasive 
+communication expect communication to have a more significant 
+effect on others than on themselves.
+
+• The third-person effect is the belief that the media will not have an 
+influence on oneself but rather on others --> this belief of the 
+media's impact on others may motivate us to act or respond in such a 
+way, not because we are influenced, but because we believe others 
+might be. 
+
+• This difference in perception may not only explain people's support 
+for limiting free speech on various issues but may also have 
+implications for public policy and other social factors.
+
+• We may be more resistant to being influenced by advertising, 
+especially if we perceive it as pure manipulation or propaganda. Still, 
+we may not make such an assessment about the content of the news.
+
+
+
+Source: https://youtu.be/kVAztNx0rHQ
+
+Strong effects model (conclusion)
+
+
+
+The impact of mass communication theories in 
+the study of social media Luoma-Aho (2010).
+
+• Reconsidering the two-step flow of communication
+• The flow of information has grown exponentially.
+• Opinion leaders are no longer mainly politicians or people of authority, 
+
+but many bloggers and microbloggers, who are basically media 
+producers, are also opinion leaders who broadcast their own 
+interpretations.
+
+• Opinions take new turns when people post their opinions on their social 
+networks, and unintended consequences can arise when translation 
+services translate messages and posts between cultures and languages.
+
+• Opinion leaders continue to play an important role in shaping opinions, 
+although not so much in mediating information as in targeting opinions 
+to specific audiences.
+
+• Today's opinion leaders could be called 'attention' leaders, as their main 
+strengths are no longer opinions but directing attention. 
+
+
+
+The impact of mass communication theories in the
+study of social media Luoma-Aho (2010).
+
+• Agenda-setting theory changes in several ways
+• While some individuals aim to become citizen journalists and writers, others 
+
+accidentally become citizen journalists by being on the scene while something 
+important is happening around them.
+
+• When many people have mobile communication devices with cameras and 
+internet access wherever they are, they can shape and shape the agenda faster 
+than traditional media.
+
+• In many parts of the Western world, traditional media institutions are 
+disappearing, so there is a vacuum for agenda-setting. 
+
+• With the introduction of new media, the leading role of large media institutions 
+is diminishing, and selective exposure is becoming the norm 
+
+• People gather their personal and specific news and information from many 
+sources, both professional and non-professional.
+
+
+
+Framing in Social Media
+
+Ahmed, S., Cho, J., & Jaidka, K. (2019). Framing social 
+conflicts in news coverage and social media: A 
+multicountry comparative study. International 
+Communication Gazette, 81(4), 1–
+26. https://escholarship.org/content/qt5w67x1jg/qt5w6
+7x1jg.pdf
+
+Valenzuela, S., Piña, M., & Ramírez, J. (2017). Behavioral 
+effects of framing on social media users: How conflict, 
+economic, human interest, and morality frames drive 
+news sharing. Journal of Communication, 67(5), 803–
+826. https://d1wqtxts1xzle7.cloudfront.net/54265366/
+When_News_Frames_Go_Viral_-__JoC_all_vf-libre.pdf
+
+• De Vreese, C. H., & Boomgaarden, H. G. (2003). 
+Valenced news frames and public support for the 
+EU. Communications, 28(4), 361–381.
+
+
+
+Priming in Social Media
+
+• Luoma-aho, V., Pirttimäki, T., Maity, D., Munnukka, J., & Reinikainen, H. 
+(2022). Primed for authenticity: How priming impacts authenticity 
+perception of social media influencers. In The Psychology of 
+Influencers (pp. 89–105). 
+Routledge. https://doi.org/10.4324/9781003181286-7
+
+Pesonen, J., & Horster, E. (2020). User-generated content in tourism: A 
+review and implications for future research. Journal of Sustainable 
+Tourism, 28(3), 393–
+407. https://doi.org/10.1080/09669582.2020.1760287
+
+• van Weelden, E., & van der Meer, T. G. L. A. (2015). The effects of 
+negative framing and photograph congruency on message credibility in 
+news articles about alcohol abuse. Public Relations Review, 41(5), 644–
+650. https://doi.org/10.1016/j.pubrev.2015.07.005
+
+
+
+Selective exposure
+
+Users can easily customize their information flow, so they get more consistent information 
+that supports their existing beliefs and filter out as much inconsistent information as they 
+
+want. 
+
+Social media not only helps disseminate more information at a faster rate, but also allows 
+users to access information more selectively. Although faced with an infinite variety of 
+
+information, social media users can limit their exposure to certain information they find 
+objectionable. Thus, social media use could exacerbate media and citizen fragmentation, 
+
+narrowing rather than broadening people's political horizons.
+
+Iyengar and Hahn (2009) argue that information overload in the new media environment can 
+further reinforce selective exposure. They point out that when candidates, interest groups 
+
+and voters all converge on the internet, the possibility of selective exposure to political 
+information increases.
+
+
+
+• Messing & Westwood (2014) argue that social network-based 
+information, such as online news, fundamentally alters the 
+context in which news reading occurs. 
+→ Social media provides a venue that promotes exposure to 
+news from politically diverse people 
+→ this exposure serves to emphasise social value rather than 
+party affiliation. 
+→ the two researchers found that the social endorsement 
+generated among social media users increases the likelihood 
+that people will select information 
+→ the mere presence of social endorsement serves to reduce 
+political selectivity to levels that may, however, be random
+
+
+
+1. Barabasi, A.-L(2017) Linked-Noua știință a rețelelor,București,Brumar;
+
+2. Burt, R. S. (1987), „Social contagion and innovation, cohesion versus structural equivalence”, în American 
+Journal of Sociology, vol. 92, pp. 1287-1335;
+
+3. Burt, R. S. (1999), „The social capital of opinion leaders”, în Annals, nr. 566, pp. 37-54.
+
+4. Burt, R. S. (2000). „The Network Structure of Social Capital”, în Research in Organizational Behaviour, Vol. 22, 
+pp. 345-423;
+
+5. Castells, Manuel (1996). The rise of the network society: The information age: Economy, society and culture (Vol. 
+1). Blackwell;
+
+6. van Dijck, Jose, (2013), The culture of connectivity: A crifcal history of social media, Oxford University Press ;
+
+7. Dominick, Joseph R. (2009), Ipostazele comunicării de masă: media în era digitală, comunicare.ro;
+
+8. Drăgan, Ioan, (2008), Comunicarea- vol II., Editura Rao;
+
+9. Severin, Werner J. și Tankard, James W. Jr, (2004), Perspective asupra teoriilor comunicării de masă, Polirom; 
+
+10. Iyengar, Shanto; Peters, Mark D. și Kinder, Donald R., (1982), „Experimental Demonstrations of the ”Not-So-
+Minimal” Consequences of Television News Programs”, în The American Political Science Reivew, vol. 76 (4), pp.
+848–858;
+
+11. Lazarsfeld, Paul F., Berelson, Bernard, și Gaudet, Hazel, (2004), Mecanismul votului. Cum se decid alegătorii într-
+o campanie prezidențială, comunicare.ro;
+
+12. Lou, T. și Tang, J. (2013), „Mining Structural Hole Spanners Through Information Diffusion in Social Networks”, la 
+International World Wide Web Conference (IW3C2) , 2013 - 
+http://keg.cs.tsinghua.edu.cn/jietang/publications/WWW13-Lou&Tang-Structural-Hole-Information-
+Diffusion.pdf 
+
+13. Luoma-Aho, V. (2010). Is social media killing our theories. Communication Research Days. 
+http://commres.net/wiki/_media/c/mt/is_social_media_killing_our_theories_luoma-aho-libre.pdf 
+
+14. McLuhan, Marshall (1994), Understanding media: The extensions of man. MIT press;
+
+15. McQuail, Denis și Windahl, Sven, (2004), Modele ale comunicării, comunicare.ro;
+
+16. Obstfeld D., Borgatti, St.P. și Davis J. (2014),„Brokerage as a Process: Decoupling Third Party Action from Social 
+Network Structure”, în Contemporary Perspectives on Organizational Social Networks Research in the Sociology 
+of Organizations, vol. 40, pp. 135-159.
+
+17. Zhong, Bu (2022), Social Media Communication -Trends and Theories, Wiley Blackwell.
+
+18. Whiting, A. and Williams, D. (2013), "Why people use social media: a uses and gratifications
+approach", Qualitative Market Research, Vol. 16 No. 4, pp. 362-369. https://doi.org/10.1108/QMR-06-2013-
+0041 
+
+References:
+
+
+
+Mandatory readings:
+
+• Berger, Jonah (2013): 
+Contagious: Why Things Catch 
+on, Simon& Schuster - 
+Chapter: Introduction: “Why 
+Things Catch On” 
+
+• Christakis, Nicholas și Fowler, 
+James (2009) Connected, 
+Chapter 2.
+
+
+
+• Barabasi, A.-L(2017) Linked-Noua știință a rețelelor,București,Brumar;
+
+• Burt, R. S. (1999), „The social capital of opinion leaders”, în Annals, nr. 566, pp. 37-54.
+
+• Coleman, J. S. (1988). Social capital in the creation of human capital. The American Journal of
+Sociology, 94(1) Supplement: Organizations and institutions: Sociological and economic
+approaches to the analysis of social structure, 95–120.
+
+• Coleman, J. S. (1990). The Foundations of Social Theory. Cambridge, Mass: Harvard University
+Press.
+
+• Granovetter, M. S. (1973), „The Strength of Weak Ties”, în The American Journal of
+Sociology. nr. 78 (6), pp. 1360–1380;
+
+• Granovetter, M. (1983). „The Strength of Weak Ties: A Network Theory Revisited". Sociological
+Theory. Vol 1, pp. 201–233;
+
+• Hâncean, M.-G, (2014), Retelele sociale. Teorie, metodologie si aplicatii, Iași, Polirom, pp. 104-
+150;
+
+• Lou, T. și Tang, J. (2013), „Mining Structural Hole Spanners Through Information Diffusion in
+Social Networks”, la International World Wide Web Conference (IW3C2) , 2013 -
+http://keg.cs.tsinghua.edu.cn/jietang/publications/WWW13-Lou&Tang-Structural-Hole-
+Information-Diffusion.pdf
+
+• Lee, J. (2017). Social capital expectation and usage of social media: the moderating role of
+
+Bibliography: social capital susceptibility. Behaviour & Information Technology, 36(10), 1067-1080. 
+https://doi.org/10.1080/0144929X.2017.1344730
+
+• Milgram, S., (1967), „The Small World Problem”, în Psychology Today, vol.1, nr.1, pp. 61-67;
+
+• Obstfeld D., Borgatti, St.P. și Davis J. (2014),„Brokerage as a Process: Decoupling Third Party
+Action from Social Network Structure”, în Contemporary Perspectives on Organizational Social
+Networks Research in the Sociology of Organizations, vol. 40, pp. 135-159.
+
+• Opsahl, T., Agneessens, F., Skvoretz, J., (2010), „Node centrality in weighted networks:
+Generalizing degree and shortest paths”, în Social Networks nr. 32, pp. 245–251-
+http://psychosystems.org/files/summerschool2017/OpsahlAgneessensSkvoretz2010.pdf
+
+• Putnam R., (2000) Bowling Alone: The Collapse and Revival of American Community. New York:
+Simon and Schuster,
+
+• Szreter S, și Woolcock M. (2004). Health by association? Social capital, social theory, and the
+political economy of public health. Int J Epidemiol.,33(4), pp. 650–667,
+https://doi.org/10.1093/ije/dyh013 
+
+• Valente, T.W., Fujimoto, K.,(2010) „Bridging: Locating Critical Connectors in a Network”., în Soc
+Networks, nr.32, pp.212–220- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2889704/
+
+• Voicu, B., (2015), „Capitalul social”, în Mărginean, Ioan și Vasile, Marian (coord), Dicționar de
+calitatea vieții, București, Editura Academiei Române, pp. 59-61;
+
+• Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of ‘small-
+world’networks. nature, 393(6684), 440-442.
+
+
+
+Barabasi, Albert-Lazlo (2002) Linked. The 
+New Science of Networks. Perseus 
+Publishing, pp. 25-64
+
+Mandatory
+readings : Christakis, Nicholas și Fowler, James (2009) 
+
+Connected. The Surprising Power of Our 
+Social Networks and How They Shape Our 
+Lives. Little, Brown and Company, chapter 1.

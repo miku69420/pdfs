@@ -1,0 +1,534 @@
+﻿C8: Using network theories, media theories and other 
+sociological theories in the study of social media 
+
+Assoc. Prof. Arabela BRICIU
+
+
+
+What do we measure in networks, 
+though...? 
+
+Visual network analysis
+
+
+
+What is important in network graphic representation?
+ Configuration
+
+Chain Y Circle Star
+network network   network network
+
+
+
+https://youtu.be/eM1KaaTez0A?si=VTvYgiKDF
+UA0MSZs
+
+
+
+This Photo by Unknown Author is licensed under CC BY-SA
+
+Cohesion
+• Network Density -is the number of ties in the
+
+network expressed as a percentage of
+ordered/unordered pair numbers.
+
+• Average degree - Average number of ties per
+actor.
+
+• Average weighted degree centrality - is the
+average of the weighted average degree of the
+whole network.
+
+• Average clustering coefficient: is a measure
+showing the proportion of nodes that tend to
+cluster together.
+
+• Average path length is the average of the
+minimum number of steps a node needs to take
+to reach another node in the network. This
+metric is used to calculate a network's efficiency
+and shows the closeness of actors in a
+collaborative network (Ortega, 2014).
+
+
+
+Low density
+
+
+
+High density
+
+
+
+The centrality
+• The centrality  is a measure of how network structure 
+
+and position contribute to the importance of a node 
+(Opsahl et al., 2010).
+
+• The most common metrics calculated for centrality are :
+
+• DEGREE –  shows how well connected a particular node 
+is, reflecting its direct influence as well as its popularity 
+(Valente and Fujimoto, 2010). Most important are 
+connections to actors that would otherwise remain 
+isolated in the network. In general, most of them are 
+connected to those in their immediate neighbourhood, 
+to their group of friends (cliques). A→
+
+• It can be divided into two categories: 
+Indegree (which is the total number of sent 
+connections) and Outdegree (which is the total 
+number of received connections).
+
+• CLOSENESS  measures the efficiency of access. A high 
+value is interpreted as efficiency in communication, 
+such as an actor's ability to disseminate and receive 
+information quickly (Brandes et al., 2016).  
+
+Nodes that discover the shortest paths to each other and 
+are thus closest to any other node in the network are in a 
+privileged position because they can monitor information 
+flows and have an overview of what is really happening Source: Claudio Rocchini, 
+
+inside the network. B http://www.rockini.name/math/images/centrality.svg 
+→
+
+
+
+The centrality
+
+• Connectivity (bridges) Those who act as brokers 
+between two important groups within a network play a 
+powerful role, but they are also points of vulnerability 
+that can prevent or block the flow of information. 
+
+• Betweenness calculates the extent to which a node 
+lies between another pair of nodes. Such actors 
+represent the people who connect two otherwise 
+unconnected subpopulations, being actors with a 
+high input of intermediation, brokerage, 
+surveillance and information control (Abbasi et al., 
+2012). C→
+
+• Eigenvector shows the weighted graded measure in 
+which the centrality of a node is proportional to the 
+sum of the centralizations of the nodes to which it 
+is adjacent →a node with a high value of this 
+measure is connected to other highly connected 
+nodes (representing a measure of power/influence) 
+(Borgatti and Everett, 1997). D→
+
+Sursa: Claudio Rocchini, 
+http://www.rockini.name/math/images/centrality.svg
+
+
+
+https://youtu.be/RgZ1X4Dok3Y?si=Ic9Ny7G
+WMF1pjZCt
+
+
+
+Network Contagion
+
+• “When you smile the whole world smiles
+with you”
+
+Christakis, Nicholas & Fowler, James (2009) 
+–Chapter 2
+
+Mandatory readings c7
+
+
+
+https://youtu.be/FpMKi9gZJrY?si=vGU9xzaKg
+kGRUFy5
+
+
+
+Network communication
+
+• Zhang, S. S., Liang, X., Wei, Y. D., & Zhang, X. 
+(2020). On structural features, user social 
+behavior, and kinship discrimination in 
+communication social networks. IEEE 
+Transactions on Computational Social 
+Systems, 7(2), 425-436.
+
+https://ieeexplore.ieee.org/document/8954613
+
+Watch the presentation of  Cesar Hidalgo -
+Meritocracy and Topocracy of Networks (10:58 min) -
+the dispersion and structure of networks is a 
+fundamental constraint on the meritocracy of 
+societies: https://youtu.be/CTJ8TAMv3sk
+
+
+
+• Xu, W., & Saxton, G. D. (2019). Does stakeholder engagement 
+pay off on social media? A social capital perspective. Nonprofit 
+and Voluntary Sector Quarterly, 48(1), 28-49.
+https://doi.org/10.1177/0899764018791267
+
+Social capital • STUDY To what extent do social work graduates have the digital skills
+needed to connect with their peers in a strategic way, thus enabling
+them to gain sufficient social capital, self-esteem, social satisfaction
+and well-being? – „Social Networking Sites and Youth Transition: The 
+Use of Facebook and Personal Well-Being of Social Work Young 
+Graduates” -
+https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00230/full
+
+
+
+Bourdieu (1984): 
+Theory of Social 
+Capital
+
+• Social capital is understood as a set of 
+resources related to the possession of a 
+network of stable relationships of mutual 
+knowledge and recognition - or, in other 
+words, belonging to a group. 
+
+• provides each of its members with the 
+support of collectively held capital, 
+
+• The benefits of belonging to a group form 
+the basis of solidarity.
+
+• all our actions are influenced by contextual 
+factors (habitus), such as our level of 
+education or social origin, even by the 
+criteria for appreciating something (tastes) 
+
+• See Williams, J. R. (2019). The use of online social 
+networking sites to nurture and cultivate bonding social 
+capital: A systematic review of the literature from 1997 to 
+2018. New Media & Society, 21(11-12), 2710-2729 -
+https://journals.sagepub.com/doi/pdf/10.1177/1461444819858
+749?casa_token=zGsuV0n5C58AAAAA:03_KqB9ptcj2HqcgAoIs8t
+tV2q_e92oVT96iRyPE0Cba6WZbXYtn61WY8fDNLQD3uj0QWqgi
+ohR2mw 
+
+
+
+What do we 
+measure in • Consumer behaviour 
+
+• Effects of media consumption
+media • Reasons for consumption 
+
+research
+
+
+
+Kitchens, B., Johnson, S.
+L., & Gray, P. (2020). Heffner, J., Vives, M. L.,
+Understanding Echo & FeldmanHall, O.
+Chambers and Filter (2021). Anxiety, gender,
+Bubbles: The Impact of and social media
+Social Media on consumption predict
+Diversification and COVID-19 emotional
+Partisan Shifts in News distress. Humanities
+Consumption. MIS and Social Sciences
+Quarterly, 44(4): Communications, 8(1),
+https://www.darden.virginia.edu/sit 1-7
+es/default/files/inline- https://www.nature.com/articles/s4
+files/05_16371_RA_KitchensJohnso 1599-021-00816-8.pdf?origin=ppub
+nGray%20Final_0.pdf
+
+Social media 
+consumption
+
+Ortiz-Ospina, E., & Roser, M. (2023). 
+The rise of social media. Our world 
+in data. 
+
+Auxier, B., & Anderson, https://ourworldindata.org/rise-of-
+
+M. (2021). Social media social-media?ref=tms 
+
+use in 2021. Pew
+Research Center, 1, 1-4.
+https://www.pewresearch.org/inter
+net/wp-
+content/uploads/sites/9/2021/04/PI
+_2021.04.07_Social-Media-
+Use_FINAL.pdf
+
+
+
+https://youtu.be/HVQGYANFRsc?si=g38qzAqIi
+HbSbEC-
+
+
+
+https://youtu.be/4TMPXK9tw5U?si=tBAU2my
+h0okU3SnS
+
+
+
+Social media effects
+
+• Orben, A. (2020). Teenagers, screens and 
+social media: a narrative review of reviews and 
+key studies. Social psychiatry and psychiatric 
+epidemiology, 55(4), 407-414. 
+https://link.springer.com/article/10.1007/s00127
+-019-01825-
+4?wt_mc=Internal.Event.1.SEM.ArticleAuthorO
+nlineFirst&utm_source=ArticleAuthorOnlineFirst
+&utm_m... 
+
+• Orben, A., Dienlin, T., & Przybylski, A. K. 
+(2019). Social media’s enduring effect on 
+adolescent life satisfaction. Proceedings of the 
+National Academy of Sciences, 116(21), 10226-
+10228. 
+https://www.pnas.org/doi/abs/10.1073/pnas.190
+2058116 
+
+• Hogue, J. V., & Mills, J. S. (2019). The effects 
+of active social media engagement with peers 
+on body image in young women. Body 
+image, 28, 1-5. 
+https://www.sciencedirect.com/science/article/pi
+i/S174014451730517X 
+
+
+
+Reasons (motivations) for using
+social media
+
+• Hossain, M. A. (2019). Effects of uses and gratifications on social 
+media use: The Facebook case with multiple mediator analysis. PSU 
+Research Review. 
+https://www.emerald.com/insight/content/doi/10.1108/PRR-07-2018-
+0023/full/html 
+
+• Pelletier, M. J., Krallman, A., Adams, F. G., & Hancock, T. (2020). One 
+size doesn’t fit all: a uses and gratifications analysis of social media 
+platforms. Journal of Research in Interactive Marketing, 14(2), 269-284. 
+https://www.researchgate.net/profile/Mark-
+Pelletier/publication/341833793_One_size_doesn't_fit_all_a_uses_and
+_gratifications_analysis_of_social_media_platforms/links/5f035f81a6fdc
+c4ca44ebf7e/One-size-doesnt-fit-all-a-uses-and-gratifications-analysis-
+of-so
+
+• Sun, Y., Liu, Y., & Zhang, J. (2020). Excessive enterprise social media 
+use behavior at work: role of communication visibility and perspective 
+of uses and gratifications theory. IEEE Access, 8, 190989-191004. 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9230429 
+
+• Chugh, R., & Ruhi, U. (2018). Social media in higher education: A 
+literature review of Facebook. Education and Information 
+Technologies, 23(2), 605-616. 
+https://link.springer.com/article/10.1007/s10639-017-9621-2 
+
+
+
+Other social theories 
+used in the study of 
+
+social media
+
+
+
+Goffman (1959/ 2003) The 
+presentation of self in everyday life
+
+• Self-presentation: When an individual appears in front of 
+others, there is usually a reason for him to mobilise his 
+activity so as to convey to others an impression that is in his 
+best interest.
+
+• Appearances - impression management: how the individual, 
+in ordinary situations, presents himself and his activity to 
+others, how he guides and controls the impression they form 
+of him, and the kinds of things he may or may not do while 
+sustaining his performance in front of them
+
+• See: Murwani, E. (2018). The Impression Management 
+Strategy of the Candidates of Governor-Vice Governor of DKI 
+Jakarta on Social Media. Jurnal Komunikasi Ikatan Sarjana 
+Komunikasi Indonesia, 3(2), 113-121: 
+http://download.garuda.kemdikbud.go.id/article.php?article
+=876071&val=10680&title=The%20Impression%20Managem
+ent%20Strategy%20of%20the%20Candidates%20of%20Gover
+nor-
+Vice%20Governor%20of%20DKI%20Jakarta%20on%20Social
+%20Media 
+
+• Also, see: Merunková, L., & Slerka, J. (2019). Goffman's 
+theory as a framework for analysis of self presentation 
+on online social networks. Masaryk UJL & Tech., 13, 
+243. 
+https://journals.muni.cz/mujlt/article/download/11836/108
+55 
+
+
+
+Bandura (1977, 1989): Social 
+learning theory
+
+Individuals' behaviours are socially acquired by 
+observing and interacting with others.
+
+Learning is the result of a reciprocal interaction 
+between the person, the external social context and 
+the behaviours adopted to achieve goals (responses 
+to stimuli); 
+
+See Deaton, S. (2015). Social learning theory in the 
+age of social media: Implications for educational 
+practitioners. Journal of Educational 
+Technology, 12(1), 1-6.
+https://files.eric.ed.gov/fulltext/EJ1098574.pdf
+https://files.eric.ed.gov/fulltext/EJ1098574.pdf
+
+
+
+Kelman (1959): 
+social influence 
+theory 
+
+Individual knowledge and behaviour can be affected by
+three social processes: conformity (normative influence of
+others' expectations), internalisation (congruence of one's
+own goals with those of other group members) and
+identification (self-concept in terms of the defining
+characteristics of the group).
+
+They shape an individual's social identity; 
+
+See: Liu, Y., Chen, Y., & Fan, Z. P. (2021). Do social network crowds help 
+fundraising campaigns? Effects of social influence on crowdfunding 
+performance. Journal of Business Research, 122, 97-108. 
+https://www.sciencedirect.com/science/article/pii/S0148296320305506?
+casa_token=hwH4uMynrWAAAAAA:dNXu8P9u57-
+WjVd2DQI9kJqoaC9Rxg9N0dkbgrUze9Jn18zdJ0IlgRQU5QNGqfwWfUv0jXu
+BZqE  
+
+
+
+Burgis (2021):Wanting: The Power of 
+Mimetic Desire in Everyday Life
+
+• insights from philosophy (Thomas Aquinas, Sartre, 
+Rene Girard) and neuroscience; 
+
+• Are we autonomous? Do we make only rational 
+choices? Do our desires come from deep within? 
+Are we above the influence?
+
+• The models we encounter in our daily lives, be 
+they celebrities, influencers, or even our peers, 
+exert a profound influence on our desires. These 
+are what we refer to as 'mimetic models '.
+
+• Ecology of desire
+
+• Mimetic desire typically works beneath the 
+surface of our conscious awareness, influencing 
+our decisions without fully recognizing its impact.
+
+• Effects: It influences our feelings of self-worth and 
+desires and catalyses cultural and political 
+polarization.
+
+• In the time of hyperimitation → social media has 
+fueled mimesis because it encourages imitation by 
+its very structure.
+
+• Empathy to counteract mimesis
+
+
+
+https://youtu.be/dtBtov2f7e4?si=-
+OlbPGMHXLgbfwrO
+
+
+
+https://youtu.be/DcIgk94Fp6Y?si=0vLWaWv2
+cEXsTNUf
+
+
+
+Academic journals where 
+we find studies about 
+social media
+• Social Media + Society is a peer-reviewed, open
+
+access journal that focuses on promoting
+understanding of social media and its impact on
+societies past, present and future.
+https://journals.sagepub.com/home/sms
+
+• New Media & Society is a journal that addresses
+critical discussions of key issues arising from the
+scale and speed of new media development,
+drawing on a wide range of disciplinary
+perspectives and theoretical and empirical
+research.
+https://journals.sagepub.com/home/nms
+
+• Online Social Networks and Media is an
+international peer-reviewed journal that publishes
+both theoretical and experimental scientific
+articles and research papers covering all aspects
+of online media and social networks: from
+protocols and applications to the use of data
+extracted from these online networks for
+modelling and understanding human behaviour in
+the cyber-physical world.
+
+• https://www.sciencedirect.com/journal/online-
+social-networks-and-media
+
+
+
+Academic journals where 
+we find studies about 
+social media
+
+• Media and Communication is an open - access, 
+peer-reviewed, international journal devoted 
+to a wide range of fundamental and applied 
+research in communication and related fields. 
+https://www.cogitatiopress.com/mediaandco
+mmunication 
+
+• Journal of Computer-Mediated 
+Communication is an open - access scientific 
+journal. It focuses on social science research on 
+communication using computer-based media 
+technologies. Within this general field, the 
+journal is broadly interdisciplinary, publishing 
+work by researchers in communication, 
+business, education, political science, 
+sociology, psychology, media studies, 
+information science and other disciplines 
+https://academic.oup.com/jcmc 
+
+
+
+Title, Author(s), Year of Publication
+
+Keywords
+
+Reading Background of the study (premises)
+
+scientific Research objectives (Research questions)
+
+articles 
+Literature - concepts and main theories underlying 
+
+(Literature the scholarly approach
+
+review) The methodology used (Type, methods and 
+procedure)
+
+Findings (results)
+
+Discussion and conclusions

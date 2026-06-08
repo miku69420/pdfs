@@ -1,0 +1,406 @@
+C2: Social Media - definitions and general aspects
+
+Nume Prenume
+
+Assoc.Prof. Arabela BRICIU, PhD.
+
+• The process by which we learn to become
+members of society - by internalising society's
+norms and values and learning social roles.
+
+Socialisation
+
+• Permanent adaptation
+
+• Integration of the individual into social
+structures
+• Is achieved and developed through interaction
+
+Sociality
+?
+Sociability
+
+Sociability
+Sociable individual: shows a willingness to
+establish and maintain social relationships with
+peers.
+Sociability: the permanent ability of people to live
+in a group - mutual obligation
+"Man is by nature a social animal." (Aristotle in
+Politics)
+"Remove sociability, and you destroy the union of
+the human race" (Seneca in On Benefactions)
+Sociability: the totality of an individual's personal
+relationships, taking into account their form;
+It refers to the network that supports it: = gr. philia
+(the bond that maintains unity between members of
+a group)
+"it is the game in the course of which we <<do>> as if
+all were equal" (Simmel, 1917) - the playful form of
+socialisation (through which social units are formed)
+
+Sociability
+• "Sociability is ... a positive type of relationship with actual or potential
+benefits for all actors involved". (Sandu, 2003, p.15)
+
+• Sociability is relational and based on phenomena of association, social
+bonding
+Attitude
+Type
+
+• Sociability
+
+Bond
+
+of private/semiprivate space
+
+Networks of friends
+Networks of
+interest/cooperation
+
+Friendship-oriented
+trustworthy
+cooperative
+
+of public space
+
+Integration into associations
+Participation in public actions
+and events
+
+Tolerance
+Acceptance
+Integration
+
+https://youtu.be/0jA5B32MP98?si=jOvEgy9zS
+IOn5cf9
+
+More about the project on: https://www.ucl.ac.uk/why-we-post
+
+https://uclpress.co.uk/book/how-the-world-changed-social-media/
+
+Miller et. al, 2016, p.3 (How the World Changed Social Media)
+
+How do we define Social Media?
+Interdisciplinary perspectives
+
+Social media is the colonization of the space between traditional
+broadcast and private dyadic communication, providing people
+with a scale of group size and degrees of privacy that we have
+termed “scalable sociality.” (Miller et al., 2016, p.19)
+
+Evolution of Social
+Media Definitions
+and Applications
+Early Usage:
+
+• The term "social media" first appeared
+in 1994 on Tokyo's online platform,
+Matisse.
+Growth Over Time:
+• Significant increase in both the number
+of platforms and active users.
+Key Applications:
+• Communication: Facilitating user
+interactions.
+• Content Sharing: Enabling distribution
+of user-generated content.
+• Collaboration: Supporting cooperative
+projects and discussions.
+
+Aichner, T., Grünfelder, M., Maurer, O., & Jegeni, D. (2021). Twenty-Five
+Years of Social Media: A Review of Social Media Applications and
+Definitions from 1994 to 2019. Cyberpsychology, Behavior, and Social
+Networking, 24(4), 215-222.
+
+Extensive but simplistic:
+• “those that facilitate online communication, networking, and/or
+collaboration” (Russo, Watkins, Kelly & Chan, 2008 p. 22).
+• “a group of Internet-based applications that build on the ideological
+and technological foundations of Web 2.0, and that allow the creation
+and exchange of User Generated Content” (Kaplan & Haenlein, 2010,
+p. 61)
+
+DEFINITIONS
+
+• Social media” simply serve as a “label for digital technologies that
+allow people to connect, interact, produce and share content” (Lewis,
+2010, p. 2).
+• Social networking sites typically provide users with a profile space,
+facilities for uploading content (e.g., photos, music), messaging in
+various forms, and the ability to make connections to other people.
+(Joinson, 2008)
+
+General:
+• “(a) the information infrastructure and tools used to produce and
+distribute content; (b) the content that takes the digital form of
+personal messages, news, ideas, and cultural products; and (c) the
+people, organizations, and industries that produce and consume digital
+content.” (Howards & Parks, 2012, p. 362)
+
+...
+• „Social media is the latest buzzword in a long line of buzzwords. It is often used to describe the
+collection of software that enables individuals and communities to gather, communicate, share,
+and in some cases collaborate or play. In tech circles, social media has replaced the earlier fave
+‘social software’. Academics still tend to prefer terms like ‘computer-mediated communication’
+or ‘computer-supported co-operative work’ to describe the practices that emerge from these
+tools and the old skool academics might even categorize these tools as ‘groupwork’ tools. Social
+media is driven by another buzzword: ‘user-generated content’ or content that is contributed
+by participants rather than editors” (boyd, 2009).
+
+• „Social media indicate a shift from HTML-based linking practices of the open web to liking and
+recommendation, which happen inside closed systems. Web 2.0 has three distinguishing
+features: it is easy to use, it facilitates sociality, and it provides users with free publishing and
+production platforms that allow them to upload content in any form, be it pictures, videos, or
+text” (Lovink, 2011, p.5).
+• ”… programmers these days loosely glue everything together with code. Connect persons to
+data objects to persons. That’s the social today” (Lovink, 2012, p.11).
+
+...
+• Since at least 2004, the internet, and
+more specifically the web, has witnessed a
+notorious and controversial shift away from
+the model of the static web page towards a
+social web or Web 2.0 model where the
+possibilities of users to interact with the
+web have multiplied. It has become much
+easier for a layperson to publish and share
+texts, images and sounds. A new topology
+of distribution of information has emerged,
+based in ‘real’ social networks, but also
+enhanced by casual and algorithmic
+connections” (Terranova & Donovan, 2013,
+p. 297).
+
+• Social media are Internet-based channels that allow users to
+opportunistically interact and selectively self-present, either in real-time
+or asynchronously, with both broad and narrow audiences who derive
+value from user-generated content and the perception of interaction with
+others. (Carr& Hayes, 2015, p. 50)
+
+Table 1: Adaptation of contemporary examples based on the above definition, according to Carr and Hayes, 2015,
+p.52
+
+Social media is media that is designed
+for and centered around social
+interaction. It is commonly associated
+with a conglomeration of web-based
+technologies and services such as
+blogs, wikis, media-sharing services,
+collaborative editing tools, and social
+networking services that enable and
+empower users to communicate,
+interact, edit, and share content in a
+social environment (Bertot, Jaeger, &
+Grimes, 2012, p. 82).
+
+Social network sites are web-based services
+that allow individuals to
+(a)
+
+construct a public or semi-public
+profile within a bounded system,
+
+(b) articulate a list of other users with
+whom they share a connection, and
+(c)
+
+view and traverse their list of
+connections and those made by others
+within the system.
+
+(boyd & Ellison, 2007, p.211).
+
+A social network site is a networked communication platform in
+which participants (a) have uniquely identifiable profiles that
+consist of user-supplied content, content provided by other users,
+and/or system-level data; (b) can publicly articulate connections
+that can be viewed and traversed by others; and (c) can consume,
+produce, and/or interact with streams of user-generated content
+provided by their connections on the site. (Ellison & boyd, 2013,
+p. 152)
+
+Social Networking Sites versus Social Media
+Castells (2009): SNS allow a form of mass communication of the self through which
+individuals can learn a new creative autonomy.
+Stiegler (2009): process of individualisation and public expression - factor of
+emancipation/empowerment and opposition/resistance.
+SNS
+
+SM
+
+Interaction --> communication
+
+Interaction --> diffusion (spreading content)
+
+Interpersonal communication<->
+
+„Medium is the message” McLuhan
+Media platforms
+
+Public platforms based on individuals interconnected
+by common interests/purposes
+
+Spread, share and brake information
+Wide audience
+
+Most often they overlap
+
++ Quick interaction, we choose who we interact with, we receive information,
+keep in touch with acquaintances, personal promotion, share content
+
+- No anonymity, harassment, pranks, manipulation, time-consuming
+
+• The eventual success of new technology relies upon both its first-time
+adoption (initial use) and the subsequent usage behaviour (continued
+usage) of the users. Continued usage behaviour by an individual depends
+upon four pillars:
+• initial adoption, i.e., the effect of current belief evaluation on current
+use behaviour;
+• sequential belief updating mechanisms, i.e., the effect of current belief
+evaluations on subsequent belief evaluations
+• feedback mechanisms, i.e., the effect of current use behaviour on
+subsequent belief evaluations; and
+• habit, i.e., the effect of current use behaviour on subsequent use
+behaviour (Kesharwani, 2019, p.3).
+• Each time users are exposed to new technology, they develop beliefs about
+the use of the system, such as ease of use and safety confection, and on
+these beliefs, they develop their usage behaviour.
+
+• Social media affordances are the
+perceived actual or imagined properties
+of social media, emerging through the
+relation of technological, social, and
+contextual, that enable and constrain
+specific uses of the platform
+
+Understanding
+Social Media
+Affordances
+
+Affordances in Social Media:
+• Features that enable specific user
+interactions and behaviors.
+• Ronzhyn, Cardenal, and Batlle Rubio
+(2022): examples of affordances include
+• Visibility
+• Editability
+• Persistence:
+• Association:
+
+The affordances that shape
+mediated environments and that
+SM creates
+❖They create opportunities and
+challenges
+❖4 Affordances of networked
+publics:
+❑persistence: the durability
+of online expressions and
+content;
+❑visibility: the potential
+audience who can bear
+witness;
+❑spreadability: the ease with
+which content can be
+shared;
+❑searchability: the ability to
+find content.
+(boyd , 2014, p. 11)
+
+Key elements
+◘ User-generated content
+◘ User-generated interaction [different kinds of interaction]
+
+◘ Message Directionality/ Two-way communication(
+
+)
+
+◘ Audience [selective]
+◘ Specific infrastructure and tools used in the production
+
+and delivery of messages
+◘ Web 2.0
+
+◘ Social Networks/ Social Network Sites
+
++/ -
+
+Advantages:
+Quick interaction and global connectivity
+Personal branding and content sharing
+Access to information
+
+Disadvantages:
+✘ Privacy issues and online harassment
+✘ Manipulation and misinformation
+✘ Time-consuming distractions
+
+References (inter ali.)
+•
+
+•
+•
+•
+
+•
+•
+•
+•
+
+•
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+
+Aichner, T., Grünfelder, M., Maurer, O., & Jegeni, D. (2021). Twenty-Five Years of Social Media: A Review of Social Media
+Applications and Definitions from 1994 to 2019. Cyberpsychology, Behavior, and Social Networking, 24(4), 215-222.
+boyd, D. M., & Ellison, N. B. (2007). Social network sites: Definition, history, and scholarship. Journal of
+computer‐mediated Communication, 13(1), 210-230.
+boyd, danah (2009). "Social Media is Here to Stay... Now What?" Microsoft Research Tech Fest, Redmond, Washington,
+February 26: https://www.danah.org/papers/talks/MSRTechFest2009.html;
+boyd, danah (2014). It's complicated: The social lives of networked teens. Yale University Press,
+https://www.danah.org/books/ItsComplicated.pdf
+Carr, Caleb T. și Hayes, Rebecca A. (2015). „Social Media: Defining, Developing, and Divining”, în Atlantic Journal of
+Communication, vol.23, nr. 1, pp. 46-65;
+Ellison NB, boyd DM. (2013) Sociality through social network sites. In Dutton WH, ed.The Oxford handbook of internet studies.
+Oxford University Press, pp. 151–172.
+Howard,Philip N. șI Parks,Malcom R.(2012). ”Social media and political change: Capacity, constraint, and consequence”, în
+Journal of Communication, nr. 62, pp.359–362;
+Joinson, A. N. (2008, April). Looking at, looking up or keeping up with people? Motives and use of Facebook. In Proceedings of
+the SIGCHI conference on Human Factors in Computing Systems (pp. 1027-1036).
+Kaplan, Andreas M., și Haenlein, Michael, (2010). „Users of the world, unite! The challenges and opportunities of social
+media”, în Business Horizons, nr. 53, pp. 59–68;
+Lewis, Bobbi Kay, (2010). „Social media and strategic communication: Attitudes and perceptions among college students”, în
+Public Relations Journal, vol.4 nr. 3, pp.1–23;
+Lovink, Geert, (2011). Networks without a cause: A critique of social media. Polity Press;
+Lovink, G. W. (2012). What is the social in social media? e-flux journal, 2012(#40).
+Miller, David, et. al. (2016). How the world changed social media. UCL press.
+Russo, Angelina, Watkins, Jerry, Kelly, Linda și Chan, Sebastian, (2008). „Participatory communication with social media”, în
+Curator The Museum Journal, nr. 51, pp.21–31;
+Ronzhyn, A., Cardenal, A. S., & Batlle Rubio, A. (2022). Defining affordances in social media research: A literature review. Social
+Media + Society. doi: 10.1177/14614448221135187
+Terranova, Tiziana și Donovan, Joan, (2013). „Occupy social networks: The paradoxes of corporate social media for networked
+social movements”, în Lovink, Geert și Rasch, Miriam, “Unlike us” reader: Social media monopolies and their alternatives.
+Institute of Network Cultures, 296–311;
+van Dijck, Jose, (2013). The culture of connectivity: A critical history of social media. Oxford University Press
+
+Mandatory readings :
+Ellison NB, boyd DM. (2013) Sociality
+through social network sites. In
+Dutton WH, ed.The oxford handbook
+of internet studies. Oxford University
+Press, pp. 151–172.
+
+van Dijck, Jose, (2013). The culture of
+connectivity: A critical history of
+social media, pp. 3-9
+
+

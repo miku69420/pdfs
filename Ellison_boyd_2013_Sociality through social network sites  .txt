@@ -1,0 +1,1062 @@
+﻿chapter  8 
+
+ sociality  through 
+social  network  sites  
+ n icole  b .  e llison and  d anah  m .  b oyd 
+
+ Introduction 
+
+ The global system of networked computers, servers, and routers known as the Internet 
+has transformed many aspects of modern society and social interaction. The online 
+ distribution of goods and services, for instance, has influenced almost every industry 
+and has radically transformed many. Alongside commerce-oriented technological 
+development has been a rise in what has been termed “social media.” One of the most 
+significant developments connected to social media is the rise of social network sites 
+(SNSs) such as Facebook, LinkedIn, MySpace, Cyworld, and Google Plus. Although sites 
+of this nature first emerged around 1997, they rose to cultural significance as a 
+ phenomenon in 2003, when Friendster first attracted mass media attention. Less than a 
+decade later, millions of people of all ages across the globe have joined SNSs  (Anderson 
+and Bernoff  2010 ) . In the US, 65 percent of Internet-using US adults report using social 
+network sites such as Facebook, MySpace, or LinkedIn  (Madden and Zickuhr  2011 ) . 
+
+ In the early stages of this phenomenon, terminology varied widely with the inter-
+changeable use of “social networking sites,” “online social networks,” or even simply, 
+“social networks” to refer to a diffuse—and sometimes improbable—range of sites and 
+services. In  boyd and Ellison ( 2007 ), we attempted to stabilize the discussion by offering 
+a definition of social network sites:
+
+ web-based services that allow individuals to (1) construct a public or semi-public 
+profile within a bounded system, (2) articulate a list of other users with whom they 
+share a connection, and (3) view and traverse their list of connections and those 
+made by others within the system. 
+
+ This definition served a need, but the social and technical landscape of these sites has 
+changed dramatically since then. In this chapter, we document some of the ways 
+
+
+
+152   the oxford handbook of internet studies
+
+SNSs have evolved since 2007, place their evolution within a context of Web 2.0 
+and scholarship on computer-mediated communication, and discuss some of the 
+opportunities and challenges embedded in the study of social media and social net-
+work sites. 
+
+ As SNSs proliferate and evolve, defining what constitutes a social network site 
+becomes increasingly challenging. Some of the features that initially distinguished 
+them have faded in significance, while others have been reproduced by other genres of 
+social media. Media-sharing websites, gaming sites, and locative media all encourage 
+participants to list contacts and “Friends,” making this affordance a poor criterion for 
+distinguishing between social network sites and other genres. Meanwhile, other 
+ features, such as media streams like Facebook’s “News Feed,” have emerged as more 
+salient components of the SNS user experience. Blurring things further, open applica-
+tion programming interfaces (APIs) and other platform technologies have enabled 
+countless third-party websites to develop on top of social network sites or to integrate 
+the social graph from popular social network sites into other tools and sites. Search 
+engines and news sites surface Facebook and Twitter content, while MySpace allows 
+people to use their Facebook credentials on MySpace, blurring the distinction between 
+the two sites. In short, the technical affordances that define a social network site have 
+become increasingly fluid. Of course, people’s practices, expectations, and social 
+norms have also  co-evolved alongside the technical features and social interaction 
+opportunities. 
+
+ Scholars face a unique challenge in trying to investigate this rapidly moving phenom-
+enon, as they struggle to understand people’s practices while the very systems through 
+which they are enacted shift. Even efforts to describe social network sites themselves are 
+challenged by the ongoing evolution of the phenomenon. While scholars conscien-
+tiously describe  who they are studying, they are less likely to describe the state of the 
+technology at the particular moment in which they are studying it. As we will argue 
+later, this compromises scholars’ ability to synthesize different studies and discern 
+higher order patterns. 
+
+ In this chapter, we begin by reconsidering how to define a social network site given 
+the shifts in technology and practice. We examine the three primary features—profiles, 
+connection lists, and traversing—and offer an alternate definition that we believe will 
+provide a more useful analytic framework for interpreting and understanding social 
+network sites as they have evolved, fully recognizing that things may continue to shift in 
+unexpected ways. To more properly contextualize social network sites, we situate them 
+within the broader landscapes of the entrepreneurial tech scene of “Web 2.0” and the 
+evolution of computer-mediated communication (CMC) scholarship. We conclude by 
+discussing the opportunities and challenges associated with research on social network 
+sites, arguing that researchers must attend to both the technical and the social compo-
+nents of these socio-technical systems when they design and report their work. In sum, 
+this chapter examines how the genre of social network sites has evolved over time and 
+offers thoughts on how scholarship might adapt to the rapid rate of innovation inherent 
+in this space. 
+
+
+
+sociality through social network sites   153
+
+ The origins and rapid evolution 
+of social network sites 
+
+ In 2007, the three defining features of a social network site appeared to be the profile, the 
+connections lists, and the functional ability to traverse those connections. As social 
+ network sites have evolved, the salience of these features has shifted. Most notably, the 
+role of the profile has changed, as media streams have increasingly taken a more prom-
+inent role and the activity of “updating” has become less burdensome. Meanwhile, the 
+articulation of contacts has become more central, both because of the rise of media 
+streams and because of third-party technologies that incorporate the “social graph” as a 
+way of organizing content. In contrast, the act of traversing did not change from a 
+ technical perspective, but became less central over time. 
+
+ A public or semi-public profile 
+ Lacking visible bodies, self-representation in online spaces offers participants many 
+possibilities to actively construct a representation of how they would like to be identi-
+fied. In some contexts, an online identity is explicitly linked to an offline presence—for 
+instance, online dating profiles represent a person who is, presumably, available for 
+future offline interactions (Ellison et al. 2012). In other contexts, the linkage to an offline 
+presence is less salient. For instance, the reputation associated with a particular pseudo-
+nym on an online discussion site may exist independently of the offline identity  (Donath 
+ 1998 ) . Yet, in all cases, making oneself visible to others requires the enactment of a dig-
+ital identity. Most CMC services encourage participants to create a screen name or use 
+another identifier—such as an email address—to uniquely identify themselves. Early 
+on, chatrooms and bulletin boards introduced the notion of a profile, linking personal 
+information provided by individuals to their screen name. Profiles grew out of earlier 
+UNIX-based protocols where users entered information into .project and .plan files that 
+were displayed when others ran a “finger” command on them. With the rise of the World 
+Wide Web, homepages became an important site of identification, as early web users 
+posted biographies, photos, and entertaining links for viewers who surfed to their page 
+ (Döring  2002 ) . Online communities and related genres of CMC began incorporating 
+profiles into their services. Profiles were especially important for sites that were designed 
+to broker offline relationships among members, such as online dating sites; users of these 
+sites were typically invited to upload photos and fill out detailed questionnaires that 
+included demographic information, interests, and open-ended spaces for self-
+description. 
+
+ Early social network sites like Friendster were designed with dating in mind and were 
+thus profile-centric in nature, organized explicitly around a set of profiles that represented 
+individuals within the system. Friendster’s profiles closely resembled those typically 
+
+
+
+154   the oxford handbook of internet studies
+
+found in online dating sites and included options for uploading a profile photograph and 
+fields for self-descriptive text. Early social network sites generally adopted this same 
+ profile format, with two notable differences. Unlike online dating profiles, SNS profiles 
+included a Friends list, consisting of names and photos representing a subset of the user’s 
+connections (e.g. MySpace’s “Top 8”) and a public space for visitor-supplied comments 
+(e.g. “Testimonials” on Friendster or the “Wall” on Facebook). 
+
+ The first SNS profiles were primarily designed to be relatively static portraits, explicitly 
+constructed through text and other media provided by the profile owner, and only 
+updated when the individual felt the need to do so. Yet, because of the Friends list and 
+comments section, SNS profiles were often updated simply through the actions of 
+ others—a change in a Friend’s photograph or a new “Testimonial” would alter the con-
+tent on that individual’s profile. Because social network site profiles are located within a 
+web of relationships and those relationships are made visible on profiles, social network 
+site profiles are  co-constructed . Current SNS profiles increasingly include multiple chan-
+nels through which individuals can contribute to and shape the profiles of their Friends. 
+
+ In 2007, two types of SNSs were dominant: profile-centric sites, like LinkedIn and 
+MySpace, and media-centric sites like LiveJournal, Flickr, and YouTube. A third type of 
+SNS—location-focused services like Dodgeball—were still primarily the domain of 
+early adopters in urban centers. While media-centric sites also included profiles, profiles 
+were de-emphasized as destinations; rather, the structure of these sites highlighted the 
+most recently updated content. While many contemporary location-based services like 
+Foursquare and Gowalla technically have profiles, they are very rarely accessed. As social 
+network sites matured as a genre, profiles simultaneously lost their centrality and also 
+became the product of aggregated media, personal updates, and system-generated 
+ content based on user activity. 
+
+ Over time, SNSs introduced various features that made it possible for individuals to 
+easily update their profiles. Although present in the beginning, commenting became 
+more central with the rise of media sharing and the popularization of updating. 
+Facebook’s “status updates,” Twitter’s “tweets,” and MySpace’s “status and mood” are all 
+examples of opportunities that SNSs provide to encourage users to create content to 
+share with their contacts in response to prompts like “[username] is …,” “Tell your 
+friends what you are doing right now”, or “What are you doing right now?” As the cost of 
+storing photos and videos declined, SNSs also began to support large-scale media shar-
+ing; mobile applications made posting photographs and videos easy. Features that made 
+it easier for users to post lightweight content to their profiles while simultaneously shar-
+ing it with Friends enhanced profiles by making them more dynamic, but in the process 
+made the basic profile increasingly irrelevant as a destination. 
+
+ Over time, the profile has shifted from a self-presentational message created by the 
+individual to a portrait of an individual as an expression of action, a node in a series of 
+groups, and a repository of self- and other-provided data. This combats one of the cen-
+tral problems that emerged with social network site profiles—they grew stale and, as 
+such, started to resemble an abandoned space. In some ways, by 2011 sites like Friendster 
+felt like a dormant snapshot of 2003, a collection of portraits that had been left unaltered 
+
+
+
+sociality through social network sites   155
+
+since users abandoned the site for more vibrant spaces. Streams of quotidian, ephemeral 
+content encourage people to participate more in that they provide an initial artifact 
+around which others can engage. Features that support actions associated with status 
+updates—the ability to post comments to, share, or register interest in an update—also 
+encourage a stream of activity that is prompted by an update but often takes on a life of 
+its own in the central stream. Today’s SNSs are more like news aggregators than they 
+are like profile-based contexts, even if the algorithm for displaying content is quite 
+obfuscated. On some SNSs, a user’s “profile” might consist solely of their activities on the 
+site (such as media they have contributed) and list of contacts, with none of the user-
+supplied biographical data associated with traditional profiles. 
+
+ Today’s profiles are not simply self-descriptive, static text, but rather a dynamic com-
+bination of content provided by the user (such as status updates), activity reports (such as 
+groups they’ve joined), content provided by others (such as virtual gifts that are displayed 
+on the profile or “tagged” photographs uploaded by others), and/or system-provided 
+content (such as a subset of one’s Friend network and activities on third-party sites.) 
+
+ The “Friends” list 
+ The ability to delineate someone as a public contact—or “Friend”1  —and thus create an 
+aggregated list that constitutes one’s network on the site is the key differentiating feature 
+of SNSs. Earlier communication tools enabled individuals to create a private list of con-
+tacts (for instance a buddy list on instant messaging), to establish a group of contacts 
+that were shared by others (such as a listserv membership list), or to publish a list of 
+related links (such as a blogroll), but SNSs extended the practice of creating a publicly 
+visible, personally curated list of contacts and made it a mainstream practice. 
+
+ The connections between people—and, thus, profiles—serve multiple purposes on a 
+social network site. They are employed to mark and display relationships, delineate who 
+can access what content, and serve as a filter through which viewers can browse profiles 
+and discover friends in common. For users, these connections represent what sociolo-
+gists refer to as a person’s social network —the collection of social relations of varying 
+strengths and importance that a person maintains. 
+
+ Friending practices are at the core of SNS activity, but are often misunderstood by 
+popular press narratives that assume that because these sites use a global term, users are 
+unable to distinguish among kinds of relationships in their circle. An early study noted 
+that the global label of “Friends” may have introduced confusion among users: “it is 
+often difficult for two users who both call each other a friend to know if they are talking 
+about the same thing”  (Fono and Raynes-Goldie  2006 ) . Yet, there is no evidence that 
+SNS users are unable to distinguish different kinds of relationships within their SNS 
+
+ 1 We capitalize Friends when we are referring to the connections on a SNS in order to differentiate 
+these connections from the colloquial reference to friendship. When people use SNSs, they often 
+identify friends, acquaintances, celebrities, and many others as “Friends”  (Parks  2010 ) . 
+
+
+
+156   the oxford handbook of internet studies
+
+ network. When asked, users report about 25–30 percent of their total Facebook Friends 
+are “actual” friends  (Ellison et al.  2011a ;  Ellison et al.  2011b ) , suggesting that users are in 
+fact able to discern between these relationships although they all use the same label on 
+the SNS. 
+
+ Initially, SNS “Friends lists” were predominantly reciprocal, meaning that a link 
+between two people was only instantiated when both parties agreed. As Twitter grew 
+popular, so did the notion that relationships could be uni-directional, with people 
+ following others who did not reciprocate. Google Plus launched with directed connec-
+tions and, in 2011, Facebook began to allow people to “subscribe” to others. Even for sys-
+tems in which reciprocal friendship links are necessary, the ability to “hide” updates 
+from a Friend or to limit the ability of some Friends to see updates allows for more asym-
+metrical disclosure of information. These more flexible arrangements may give users 
+more freedom to express complex connections, but the tools to negotiate these relation-
+ships are often too complicated to be truly usable. 
+
+ In offline contexts, we maintain many different kinds of relationships, ranging from 
+weak ties to strong connections, which exist in multiple contexts such as work, family, 
+and hobby or school-based groups. Having to simultaneously present oneself to different 
+groups in the same social encounter can be challenging and predates the Internet 
+ (Meyrowitz  1985 ;  Leary  1995 ) . As SNSs became more popular with a wider range of indi-
+viduals, many individuals’ contact lists became more diverse as these users Friended 
+people representing a range of contexts (family, professional contacts, church members, 
+etc.). This growing diversity has contributed to cases of “context collapse,” which 
+describes the ways in which individuals that we know from different social contexts 
+come together in SNSs in potentially uncomfortable ways  (Marwick and boyd  2011 ) . 
+Over time, the size of users’ Friends lists has grown, in part because SNS users don’t tend 
+to delete old connections, even if they lose touch with those people. 
+
+ Social network site designers have developed different approaches to help people 
+manage large networks. MySpace introduced the “Top 8” (eventually relabeled “Top 
+Friends”) to allow participants to choose eight contacts that would be highlighted on 
+their profile page; MySpace assumed that people would list the people whose profiles 
+they visited the most often, but this feature was often used to publicly display important 
+connections. Facebook took a more algorithmic approach, attempting to assess the 
+importance of a user’s Friends in order to prioritize updates, but allowing users to tweak 
+these formulae by “hiding” certain kinds of content in their news stream. Some SNSs—
+including Facebook, Twitter, Google Plus, and YouTube—have allowed people to create 
+different types of lists to organize their connections privately so that participants can 
+consume only content from or limit content to people on those lists. Google Plus allows 
+users to place others into “circles” as a way of organizing incoming and outgoing content 
+and does not require symmetrical linking. 
+
+ The rise of open APIs and developer platforms meant that these collections of articu-
+lated contacts became valuable in contexts outside that particular SNS. Engineers and 
+entrepreneurs alike began talking about the “social graph”—the global network of linkages 
+between all individuals within a system  (Fitzpatrick and Recordon  2007 ) . This language 
+emerged at a time when commercial entities began to believe that the social graph had 
+
+
+
+sociality through social network sites   157
+
+value beyond the individual’s relationship with a given social network site. Marketers 
+started recognizing the economic potential of using the social graph for advertising 
+ purposes, while media companies realized that they could leverage the social graph to 
+shape the flow of information. From an engineering perspective, user experience design-
+ers recognized that the more accurately a system could discern the relationship between 
+two users, the more valuable its recommendations would be and the more relevant the 
+content displayed to the user. 
+
+ As the social graph has risen in significance, companies have begun leveraging it to 
+do more complex algorithmic work, such as suggest relevant content, offer recom-
+mended contacts, and provide targeted advertisements. At a broader industry level, 
+SNSs are metamorphosing from a destination site to a platform that enables third-party 
+developers to build software on top of the social graph. Companies have begun exposing 
+the social graph through APIs and negotiating deals to help connect information with 
+people through their relationships.2  For example, technologies like “Facebook Connect” 
+allow other websites to suggest unique content based on a person’s Facebook Friends 
+list. In this way, the social graph of SNSs is increasingly used beyond the bounded space 
+of the SNS itself. 
+
+ View and traverse connections 
+ When people first flocked to SNSs, the ability to traverse one’s own connections and those 
+of others was a critical and defining component of SNSs. Yet, as profiles faded, media 
+streams emerged, Friends lists became more infrastructural; traversing connections has 
+lost its salience as the core participation activity. The ability to see—and traverse—others’ 
+contact lists was innovative and important in several ways. From an adoption perspec-
+tive, it enabled users to find shared contacts easily, thus lowering the barriers to initiating 
+contact with other users and enabling users to harness network effects more easily. From 
+a social perspective, it allowed people to easily see the relationships between others, to 
+reconnect with old friends and acquaintances, and to travel through the network in a way 
+that enhanced social interactions. Although some SNSs may enable users to hide por-
+tions of their network, the critical point here is that the design of the site makes it possible 
+to display one’s articulated network and that this is the default and typical setting. 
+
+ Prior to social network sites, the closest analog to the traversable Friends list was the 
+construction of blogrolls on blogs. Individual bloggers often listed other sites that they 
+respected, providing an HTML link pointing to them. This allowed visitors on Blog A to 
+surf to Blog B. The flow of information was unilateral, though, so visitors who stumbled 
+upon Blog B were unable to see that Blog A recommended Blog B. This was because 
+ blogrolls were, by and large, manually inserted and maintained, and the structure of many 
+blog platforms did not support display of this information. Services like LiveJournal and 
+
+ 2 Google, Facebook, and Twitter all provide APIs that allow third parties to leverage the social 
+graph. Conferences like O’Reilly’s Strata connect people who are working with the kinds of data 
+provided by these APIs, and books like  Russell ( 2011 ) provide technical guidance for engineers. 
+
+
+
+158   the oxford handbook of internet studies
+
+Xanga—retrospectively viewable as a cross between blog platforms and SNSs—were 
+some of the first services to make traversing the network possible. 
+
+ The visibility and traversability of connections through articulated tie lists of “Friends” 
+or “Followers” is still common on SNSs, and has become an assumed property of pub-
+licly accessible Friends lists. Yet, one  significant shift has unfolded: the traversability of 
+connections has become more important for machines than users. As APIs make the 
+social graph available to broader audiences, algorithms are being designed to traverse 
+the graph and learn about the individual nodes’ relationship to one another. Such 
+machine learning is the backbone of search engine technology, but it is increasingly cen-
+tral to the development of social  network sites. 
+
+ As social network sites have become mainstream, traversing the connections between 
+people to view profiles is no longer the sole—or, even primary—way of participation. 
+Content is surfaced through streams, and each piece of content is embedded with 
+numerous links to other content nuggets. While early iterations of sites like Friendster 
+allowed users to browse interests to find other people, more recent SNSs have evolved 
+to make nearly everything traversable. Features like Twitter’s “hashtags” allow people 
+to pivot off of topics: clicking on a hashtag will reveal all other posts referencing that 
+term. On Facebook, the vast majority of profile content has become clickable, allowing 
+people to traverse everything from alma mater to tagged content. Although early social 
+network sites provided numerous points of navigation, Friends lists were the most notable; 
+today, they have faded into the background as sites increasingly offer countless alternate 
+discovery pathways. 
+
+ Definition 2.0 
+
+ Given the evolution of social network sites—and the importance of these sites in popu-
+lar culture—it is important to reconsider how to define them. The definition that we 
+offered in 2007, while useful, does not accurately describe the landscape of SNSs today. 
+As of this writing, we believe the following is a more accurate and nuanced definition:
+
+ A social network site is a networked communication platform in which participants 
+1) have  uniquely identifiable profiles that consist of user-supplied content, content 
+provided by other users, and/or system-level data; 2) can publicly articulate connec-
+tions that can be viewed and traversed by others; and 3) can consume, produce, and/
+or interact with streams of user-generated content provided by their connections on 
+the site. 
+
+ We still believe the term “social network sites” is more accurate than “social networks” 
+(which is a sociological term for one’s social relationships), “social networking” (which 
+evokes a practice of actively seeking connections and also happens offline), “online 
+social networks” (one’s online connections more generally), or “social networking sites” 
+(which emphasizes connecting to new people). The term “social network site” rightfully 
+
+
+
+sociality through social network sites   159
+
+emphasizes that these are sites that enable individuals to articulate public lists of 
+ connections—to present a social network and to view others’ networks. This ability is 
+what differentiates social network sites from earlier forms of online interaction spaces 
+and the term “social network site” highlights the role of the network (as a noun) as 
+opposed to the practice of networking (as a verb). 
+
+ The desire to communicate and share content is a primary driver of SNS use. These 
+interactions are supported through a variety of communication-oriented features. 
+Almost every aspect of SNS user activity is fundamentally enhanced by the ability of 
+SNSs to lower the barriers to communication and sharing and thus reshape the kinds of 
+networks that people are able to build and support. Many of the weak tie relationships 
+articulated on SNSs would fade away were it not for the ease with which people can 
+communicate, share, and maintain simple connections. For this reason, this new defini-
+tion positions social network sites first and foremost as a communication platform, 
+while also highlighting the importance of sharing content, typically consumed through 
+a stream. 
+
+ All SNSs support multiple modes of communication: one-to-many and one-to-one, 
+synchronous and asynchronous, textual and media-based. On most social network sites, 
+these features can be public or more private. Features like comments on Facebook, @
+replies on Twitter, and shouts on Foursquare allow people to communicate with their 
+network of Friends in ways that are visible to broad audiences. Meanwhile, many SNSs 
+have private messaging or chat features that allow for more intimate dialogue. 
+Importantly, through features such as the ability to comment on Friends’ content or 
+social gaming, users are able to communicate with the networks of their Friends. These 
+Friends of Friends may be useful sources of novel information and diverse perspectives. 
+The context of the SNS—such as the fact that these users share a Friend in common and 
+are communicating in a semi-public forum—may support more productive exchanges 
+than those that take place in other online fora such as anonymous chat rooms where 
+accountability and motivation are lower. 
+
+ As part of a broader shift echoed in other social media, SNSs have become more 
+media-centric and less profile-centric. By 2011, most social network sites were organized 
+around a stream of recently updated content, whether in the form of Facebook’s News 
+Feed or as the landing page on Twitter and Tumblr. Naaman, Boase, and Lai (2010) refer 
+to these streams as “social awareness streams.” On most social network sites, each per-
+son’s stream is populated with content provided by those whom they’ve chosen to Friend 
+or follow. Spaces for media sharing—whether text, video, or photos—are also nearly 
+universal on popular social network sites; the availability of this content is often 
+announced in the stream of updates. On some sites, automated messages about people’s 
+actions on the site are also posted in the stream. The aggregated collection of media and 
+text from one’s Friends serves as the point of departure for other activities on the site or 
+the Web, replacing the act of surfing from profile to profile to discover updated content. 
+
+ Social network sites have evolved, but their foundational activities—sharing content 
+with a bounded group of users—are fundamentally the same. The significance of profiles 
+in the user experience has declined, but profiles as spaces for self-presentation and 
+
+
+
+160   the oxford handbook of internet studies
+
+ content distribution are still the anchor of social network sites. Friends lists are still the 
+core organizing principle, but have gone from being a way of knitting together profiles to 
+becoming the “social graph” backbone. Most importantly, the implicit role of communi-
+cation and information sharing has become the driving motivator for participation. 
+
+ Situating social network sites 
+in context 
+
+ In essence, social network sites are a computer-mediated communication (CMC) genre 
+that emerged during an industry-wide innovation boom referred to as the “Web 2.0” 
+phenomenon, and thus is part of a category of tools referred to as “social media.” In 
+order to understand the significance of SNSs and the practices that unfolded around 
+them, it is important to contextualize them against the backdrop of Web 2.0 and situate 
+them within the framework of CMC scholarship more generally. 
+
+ The Web 2.0 phenomenon 
+ When Friendster first gained widespread attention in 2003—prompting numerous 
+ imitators—social network sites were quickly labeled as one type of “social software” in 
+what would be later described as the “Web 2.0” phenomenon. While many scholars have 
+eschewed these labels, arguing that there’s nothing about “social software” that couldn’t 
+be addressed through existing academic frames such as “virtual communities” or “com-
+puter-supported cooperative work,” many in Silicon Valley were enamored by the poten-
+tial of this new wave of innovation. 
+
+ Functionally speaking, there was very little new about social software—or, as the 
+technologies would later be called, “social media.” Many of the prominent features, 
+such as the ability to host photographs online or the ability to update a web page, had 
+existed for years. What makes “social media” significant as a category is not the tech-
+nology, but rather the socio-technical dynamics that unfolded as millions of people 
+embraced the technology and used it to collaborate, share information, and socialize. 
+Popular genres of social media integrated the public nature of interest-driven CMC 
+with the more intimate dynamics of interpersonal CMC. For instance, news aggrega-
+tor sites like Reddit and Digg enable individuals to post links to news stories online 
+as well as comment and vote on them, reshaping the economics of attention in a way 
+that enabled bottom-up filtering of online content. Meanwhile, SNSs have become a 
+genre of social media that lowers barriers to communication, facilitates the display of 
+identity information, and enables like-minded individuals to easily discern their 
+common ground, thus helping users cultivate socially relevant interactions  (Ellison 
+et al.  2011a ) . 
+
+
+
+sociality through social network sites   161
+
+ Web 2.0 means different things to different people. Tim O’Reilly is usually credited 
+with popularizing the term, although the moniker dates back to the 1990s. In organizing 
+the first Web 2.0 conference, O’Reilly and John Battelle sought to discuss how the Web 
+could serve as a platform  (O’Reilly  2005 ) . Their approach paralleled how technologists 
+and entrepreneurs generally viewed Web 2.0. 
+
+ At a technical level, Web 2.0 signaled a shift from server-driven back-end websites to 
+front-end centric ones powered by Javascript, Ruby on Rails, and other web develop-
+ment packages. Procedurally, Web 2.0 meant moving from a model of “design, develop, 
+and deploy” to an iterative development process known as the “perpetual beta.” 
+MySpace’s approach to development illustrates this mindset. In the early years of the 
+site, MySpace launched new features frequently based on watching what people did with 
+the service, eschewing traditional in-house quality control and instead relying on users 
+to indicate what was working and what wasn’t, what they liked and what they didn’t. 
+
+ For the business community, Web 2.0 represented a potential return to the irrational 
+exuberance of the dot com boom. In many ways, the “2.0” moniker refers to the poten-
+tial for Silicon Valley to recover from the collapse of the first Web-related boom. As such, 
+Web 2.0 signaled a return of venture capitalists, entrepreneurs, and a new battle over 
+power and status in the technology scene  (Marwick  2010 ) . 
+
+ While the technical and business aspects of Web 2.0 are significant in and of them-
+selves, more germane to this discussion are the cultural shifts that came with Web 2.0. 
+In short, Web 2.0 brought online communities into the mainstream. Although online 
+communities have been in existence since the earliest days of the internet—and 
+ services like AOL made online communities accessible to more mainstream internet 
+users—they have not been the central focus of most internet users. Prior to Web 2.0, 
+people spent the bulk of their time online browsing websites and engaging with email, 
+instant messaging, and casual gaming; actively participating in online communities 
+was still considered geeky. Social network sites reconfigured people’s engagement with 
+online communities because they signaled a shift from interest-driven to friendship-
+driven spaces. Rather than going to an online community to meet others who were 
+interested in a particular topic or hobby, people primarily turned to social network 
+sites like Facebook to publicly engage with people they already knew  (Ellison et al. 
+ 2007 ,  2011a ) . The focus on one’s personal network and the familiarity between partici-
+pants made social media feel very different than previous varieties of online 
+communities. 
+
+ The concept of “Web 2.0” was an industry-driven phenomenon, hyped by the news 
+media and by business analysts alike. Many of the technologies that were eventually 
+labeled Web 2.0 were developed years earlier. For example, the structural foundations of 
+blogging were first created during the dot com bubble with services like LiveJournal and 
+Blogger, both founded in 1999. Still, blogging started rising out of the post-crash ashes 
+circa 2003 and, in 2004, the US presidential election took blogging mainstream and 
+news agencies began critiquing the role that “web diarists” could play as amateur jour-
+nalists  (Lee  2004 ) . Likewise, the functional components of social network sites date back 
+to at least 1997, but Friendster got people excited in part because it was seen as a new type 
+
+
+
+162   the oxford handbook of internet studies
+
+of online dating site, and online dating sites were one of the few profitable services in 
+2001, after the economic downturn. 
+
+ Web 1.0 veterans—bored, out of work, and still enamored by the Internet, which, at 
+the time, was being described as a “fad” by analysts—began developing new applications 
+for communicating and sharing information. People were exploring blogging, tagging, 
+social bookmarking, podcasting, photo sharing, video sharing, and social gaming. Old 
+CMC tools were being revisited and reconsidered while the industry itself began  making 
+claims about innovation that excited investors. For example, buzzwords like “user-generated 
+content” became widespread in order to signal a shift from commercially edited or 
+curated content to content provided by individuals. Social network sites emerged out of 
+the Web 2.0 and social media phenomena, mixing new technologies and older CMC 
+practices infused by tech industry ideals. 
+
+ Genres of computer-mediated communication 
+ SNS-enabled communication patterns both differ from and incorporate aspects of ear-
+lier forms of online communication, including email, instant messaging, and MUDs. 
+While SNSs emerged at a moment in the Internet’s history where mediated interactions 
+were increasingly widespread, in part because the Internet was being broadly embraced, 
+they owe a lot to earlier CMC genres. In fact, many SNS features were incorporated from 
+earlier tools. Although the true historical origins of CMC are found in the introduction 
+of print, which enabled communication to span temporal and geographical boundaries 
+for the first time, the first instances of computer -mediated communication are located in 
+the exchange of text messages over the Internet which occurred soon after the first file 
+transfers over ARPANET and quickly constituted the majority of the system’s traffic. 
+Since these early exchanges, the ability of the Internet to support social interaction has 
+played a central role in its adoption. 
+
+ Early CMC genres can typically be understood across two axes: synchronous versus 
+asynchronous, one-to-one versus one-to-many. One-to-one CMC channels were primarily 
+for connecting people directly in more intimate fashions, while one-to-many channels 
+connected strangers, typically around shared interests. For instance, motorcycles aficio-
+nados went to Usenet’s rec.motorcycles to find like-minded communication partners, 
+while close friends often communicated via IM or email. The tools for interpersonal 
+group communication and the tools for topically-oriented gatherings often blurred, 
+with mailing lists serving both as a forum for groups of people who knew each other and 
+as places where strangers could gather around a topic. Likewise, some channels blurred 
+synchronous and asynchronous communication, such as MUDs—environments where 
+users created fantastical representations of self and communicated with others in 
+ text-based environments. 
+
+ While groups of friends often met at collectively agreed-upon online spaces—and 
+online communities like the Whole Earth ’Lectronic Link (WELL) initially formed 
+through networks of friends—many online communities in the 90s were not designed to 
+
+
+
+sociality through social network sites   163
+
+support pre-existing friend groups. Rather, they served as interest-focused conversational 
+hubs that brought together people based on shared interests—not just shared geography—
+and enabled them to “form webs of personal relationships in cyberspace”  (Rheingold 
+ 1993 ) . This first generation of virtual communities was, for the most part, built upon 
+people encountering one another for the first time in an online context that grouped 
+ people by interest, not geography. Some of these relationships moved to other communi-
+cation channels, including face-to-face  (Parks and Floyd  1996 ) , especially when they were 
+associated with a particular geographical nexus (such as the WELL in the Bay Area of 
+California). Later work found similar patterns: DiGennaro and Dutton (2007) find that 
+20 percent of their sample of Internet users report meeting new friends online and  Tufekci 
+( 2010 ) reports that people who are looking to make friends online often do. 
+
+ Early research on virtual communities explored how these collections of individuals 
+transformed into communities with distinctive cultures, norms, and a sense of connection. 
+For instance,  Nancy Baym’s ( 2000 ) ethnographic account of a newsgroup devoted to 
+soap operas highlights the shared norms that developed among participants as they 
+ created a space for communication and community. Rheingold ( 1993 ) documented the 
+development of the WELL and coined the phrase “virtual community.”  Sherry Turkle’s 
+( 1995 ) analysis of MUDs described a space where interactions that occurred outside of 
+traditional embodied experiences were heady and liberating. As one of Turkle’s partici-
+pants explains, “[real life] is just one more window, and it’s not usually my best one” 
+ (Turkle  1995 : 13). 
+
+ The notion that individuals could develop intimate friendships and emotional con-
+nections with people they had never met “in real life” was surprising to those who didn’t 
+use these tools, and some of the early laboratory studies reinforced the notion that CMC 
+was less effective than face-to-face for group communication processes (e.g.  Kiesler
+et al.  1984 ) . Although the hundreds of listservs and newsgroups that flourished during 
+this time reflected a diverse set of interests, the user base powering them was far less 
+diverse. During this period, the typical Internet user was more likely to be white, male, 
+tech-savvy, older, and wealthier than those who were not online. And most of them 
+spoke English and were passionate about geeky topics. Thus, even as strangers encoun-
+tered each other online, they often had quite a lot in common. 
+
+ Many of the features underlying early CMC tools have been incorporated into SNSs. 
+Being able to group users by interest, describe oneself textually, and engage in both syn-
+chronous and asynchronous communication are key aspects of the SNS user experience 
+today. As with these earlier communication forums, individuals are using SNSs to 
+achieve a multitude of personal and professional goals. 
+
+ Early research on the topic suggested that SNS users were more likely to articulate 
+existing relationships on social network sites than meet new people (see  boyd and 
+Ellison  2007 , for a review). Recent research on Facebook suggests that connecting with 
+close friends is more common than using the site to meet new people, but that using the 
+site to find out more information about peripheral others, such as casual acquaintances 
+or someone one has met socially, is also a strategy employed by users  (Ellison et al.  2011a ; 
+ Joinson  2008 ) . On other sites, different practices have evolved. Early research on the 
+
+
+
+164   the oxford handbook of internet studies
+
+topic found that MySpace users appeared more likely than Facebook users to meet new 
+people  (Dwyer et al.  2007 ) . On Twitter, which allows asymmetrical relationships, it is 
+more common to follow accounts of those whom one does not know personally 
+ (Marwick and boyd  2011 ) , reconfiguring how connection and intimacy are managed 
+ (Crawford  2009 ) . 
+
+ The infrastructure behind social network sites—particularly the articulation and 
+navigation of preexisting relationships—also complicates how “community” can be 
+conceptualized. While online forums that are organized around topic or interests can be 
+reasonably understood as a discrete group, networks of people connected to disparate 
+others are not as easy to categorize. Similar to the way in which early users might belong 
+to multiple discussion forums—each with its own culture, norms, and history—SNS 
+users may interact with different groups that they see as communities on SNSs. For 
+instance, a college student may have Friends that include fraternity brothers, chemistry 
+major friends, high school friends and family members. While there are tools for seg-
+menting these individuals into lists for the purposes of sharing and restricting content, 
+these features are often challenging to use. 3 Instead, individuals are recreating their com-
+munities on an individual basis as opposed to accessing a commonly held distribution 
+list, as is typical in many other forms of online interaction.  Rainie and Wellman ( 2012 ) 
+point out that, in networked societies, we are likely to connect with multiple shifting 
+networks that meet our informational or other needs at that moment, as opposed to a 
+smaller number of static groups that serve all our needs. 
+
+ SNSs incorporate features from earlier forms of CMC, but they do so in a way that 
+amplifies the power of these features because they are placed in a social context. For 
+instance, consider the profile. Profiles that are linked to a group of contacts are often 
+more accurate than those that exist in a social vacuum; the presence of these contacts 
+implicitly vets presentational claims, and third-party comments are perceived as more 
+credible than self-reported information  (Walther et al.  2008 ) . In this way, people’s self-
+presentations on social network sites may be less highly embellished when compared to 
+sites without visible social connections, such as online dating sites. Earlier forms of 
+mediated communication allow for identity information to be shared, but SNSs do this 
+in different and potentially more powerful ways due to the presence of the third-party 
+Friends network. Other features are similarly amplified through the Friends list. One 
+reason SNSs are a compelling focus for the field of CMC is that they are well-designed to 
+support interaction and are adopted by so many diverse kinds of individuals who are 
+connecting with one another in novel ways, leveraging existing tools to do unexpected 
+things, and reconfiguring CMC technologies to meet their needs. Much of what is novel 
+stems from how participants incorporate an articulated list of connections—or 
+Friends—into their online practices. 
+
+ 3 Google Plus attempts to address this design issue with its “Circles” but, at the time of publication, 
+patterns of use have not yet stabilized. 
+
+
+
+sociality through social network sites   165
+
+ Research challenges 
+
+ SNS scholarship offers scholars in a diverse range of fields the opportunity to study empirical 
+questions as wide-ranging as how the number of Friends one accumulates on an SNS 
+affects impressions  (Tong et al.  2008 ) , how participants leverage SNSs to get their ques-
+tions answered  (Morris et al.  2010a ,  2010b) , how social media connects journalists and 
+citizens during political uprisings  (Lotan et al.  2011 ) , or how constructing one’s profile can 
+affect one’s view of self  (Gonzales and Hancock  2008 ) . 4 Arguably, the range of activities 
+and goals that users are employing SNSs to meet, and the diversity of the user base, make 
+social network sites a relevant context for scholarship in almost every discipline. 
+
+ However, studying SNSs also poses unique challenges. By far the most pressing chal-
+lenge for SNS scholars lies in the rapid pace at which innovations and technical changes 
+are implemented in this space. For scholarship in this arena to develop, SNS researchers 
+need to be mindful of the ways in which these sites evolve over time and the effects this 
+may have on the interpersonal, psychological, and sociological processes they are 
+studying. 
+
+ The networked nature of SNS interactions provides an additional layer of complexity 
+not experienced by earlier media scholars examining the role of television or radio. 
+What one experiences on SNSs and the content to which one is exposed differs depend-
+ing on the structure of one’s network, a user’s individual preferences and history, and her 
+activities at that moment. This is quite unlike previous media like television, where the 
+program does not change depending on who can see it. Although interpretations of 
+media have always varied, mere access varies widely with SNSs, complicating what con-
+stitutes the object of content analysis. 
+
+ Much like research on the effects of Internet use have evolved to measure granular 
+activities as opposed to global measures of use such as time online, SNS researchers are 
+also moving towards a consideration of specific activities on the site. Because of how 
+people’s position within the SNS shapes their experiences of it, activity-centric analyses 
+require contextualization and translation, not unlike what social scientists studying dif-
+fering cultural practices have had to do for decades. 
+
+Documenting socio-technical changes 
+ One key challenge of studying social media is that designers of these tools are innovating 
+at a very rapid timeframe and often with little advance notice. Given the rapidly changing 
+infrastructure and the timeframe of academic publishing, the site at the time of data 
+ collection is likely to be very different from its incarnation at the point of publication. 
+Furthermore, features that one scholar examines one year may simply disappear the next. 
+
+ 4 For a broader sampling of research into SNSs, visit the following bibliography: < http://www.danah
+.org/researchBibs/sns.php >. Accessed June 2, 2011. 
+
+
+
+166   the oxford handbook of internet studies
+
+Thus, two studies of a particular site that produce different findings may not be 
+“contradictory”—they may actually have examined what are in essence two different 
+socio-technical contexts. 
+
+ We believe it is critical that SNS scholars consider the implications of technological 
+change more explicitly in their work. As systems change, so will the practices they enable 
+and constrain. Unless researchers attend to technology-based features, and are more 
+careful about describing and considering the impact of the technology itself, scholarship 
+on SNSs may become a landscape of individual, niche studies that preclude synthesis 
+across them—a connect-the-dots canvas of points with no organizing framework that 
+reveals the connections between them and allows the larger picture to emerge. 
+
+ All technologies evolve over time (see  Pinch and Bijker  1987 ) . As feature sets change, 
+so too do user practices, expectations, and norms. Unlike many previous technologies—
+like the television or telephone—social media applications evolve far more quickly, often 
+without warning and in ways that may have significant implications for users and their 
+practices. Social media researchers may be halfway through data collection when they 
+discover that an important feature has been redesigned or removed altogether. Or they 
+may find their analysis assumes an old set of norms and features. For example, a study of 
+manual retweeting practices on Twitter  (boyd et al.  2010 ) quickly became outdated when 
+Twitter launched its retweet functionality. In order to study phenomena as they are 
+unfolding, researchers must flexibly negotiate the shifting toolset, but they must also be 
+careful about how they document their findings. 
+
+ In order to produce scholarship that will be enduring, the onus is on social media 
+researchers to describe the technological artifact that they are analyzing with as much 
+care as survey researchers take in describing the population sampled, and with as much 
+detail as ethnographers use when describing their field site. This is not to say that 
+researchers must continue to describe technologies as if no one knows what they are—
+we are beyond the point where researchers must explain how electronic mail or “email” 
+is like or unlike postal mail. But, rather, researchers must clearly describe the socio-
+technical context of the particular site, service, or application their scholarship is 
+addressing. In addition to attending to the technology itself, and the interchange 
+between technical and social processes, we believe SNS researchers should make a con-
+certed effort to include the date of data collection and to describe the site at the moment 
+of data collection and the relevant practices of its users. These descriptions will enable 
+later researchers to synthesize across studies to identify patterns, much in the same way 
+reporting exact effect sizes allows for future meta-analyses. 
+
+ For those of us who believe that social network sites are socio-technical systems, in 
+which social and technical factors shape one another, failing to describe the site under 
+study ignores the fact that the technological constraints and affordances of a site will 
+shape user practices and that social norms will emerge over time. Not including infor-
+mation about what the feature set was at the time of data collection forecloses the possi-
+bility of identifying patterns that emerge over time and through the accumulated 
+scholarship across a range of sites and user samples. Unfortunately, because they have 
+no knowledge about how things will continue to evolve and which features will become 
+
+
+
+sociality through social network sites   167
+
+important to track, researchers may not be able to identify the salient features to report 
+and may struggle with devoting scarce publication space to these details, but this doesn’t 
+undermine the importance of conscientious consideration towards describing the arti-
+fact being analyzed. 
+
+ Even minute technical changes can have meaningful effects on human behavior. 
+For instance, changing the default ages that show up on the front page of major online 
+ dating sites for suggested searches might influence how searches are conducted and how 
+individuals choose to present themselves. Online daters report shaving off a year or two 
+from their age so as to not be “filtered out” by people searching for typical age brackets 
+such as 35 or 40  (Ellison et al.  2006 ) . 
+
+ These issues are more magnified when addressing larger socio-technical issues, like 
+privacy and the shifting nature of social network site privacy settings. Unlike face-
+to-face contexts, where the audience for a particular utterance is usually visible (e.g. the 
+other people in the room), content that’s visible to a limited audience can be confusing 
+to those who see them but do not know who else can, and thus may not be able to dis-
+cern the extent to which the information is truly “public.” For example, scholars who 
+were analyzing privacy settings and privacy practices on Facebook in 2005  (Gross and 
+Acquisti  2005 ) document very different practices than those who study privacy later 
+(e.g.  boyd and Marwick  2011 ;  Lampinen et al.  2011 ;  Stutzman and Kramer-Duffield 
+ 2010 ) . Seeing how the default privacy settings on Facebook have changed over time 
+highlights the rapid and meaningful nature of change on SNSs  (McKeon  2010 ) . The 
+introduction of features that enable users to target content to certain people, such as 
+Facebook’s “lists” feature and, more recently, Google Plus’s “circles,” are examples of techni-
+cal changes that could reshape how users engage with others on the site, and potentially 
+force users to negotiate a new level of social complexity. Knowing whether users had 
+access to these advanced features or just early simplistic structures for making content 
+“public’, “private,” or “Friends-only” is important to know when interpreting findings 
+from a study of SNS privacy issues. 
+
+ SNS scholars should aim to produce work that contributes insights and develops 
+ theory in a way that transcends the particular site at a moment in time, but rather is useful 
+and informative even after the site design shifts. This requires historically locating the 
+technology alongside descriptions of the population and practices. 
+
+ The challenges and opportunities of large datasets 
+ Because of both the content that people upload and the behavioral traces that they leave 
+behind, social network sites have unprecedented quantities of data concerning human 
+interaction. This presents unique opportunities and challenges. On one hand, SNSs offer 
+a vibrant “living lab” and access to behavioral data at a scale inconceivable to many social 
+scientists. On the other, the data that are available present serious research ethics ques-
+tions and introduce new types of biases that must be examined  (boyd and Crawford 
+ 2012 ) . 
+
+
+
+168   the oxford handbook of internet studies
+
+ A lot of the core challenges stem from the opportunities, problems, and limitations to 
+accessing server-level data. Harnessing server-level data—the data captured by the site, 
+not just the traces made visible through the public-facing screens—provides an oppor-
+tunity to study and track user behavior without the issues posed by self-report data or 
+privacy settings, although it introduces other complications. Server-level data often pro-
+vide activity data at a granular level not possible through other methods. For instance, 
+using Facebook server-level data, Burke and colleagues are able to identify the social 
+capital outcomes of different kinds of activities on the site, such as passively consuming 
+others’ content or broadcasting messages  (Burke et al.  2011 ) . The cognitive load required 
+of users to answer detailed questions about their micro-activities often precludes survey 
+questions about these kinds of usage details, even assuming users could accurately 
+report them. 
+
+ Server-level data provide a unique opportunity to access detailed behavioral data 
+about what people are doing on SNSs. Yet, it’s not clear that those who participate on 
+SNSs want to be observed in this way. Nor is it clear that researchers can always correctly 
+interpret these data. Furthermore, only some researchers have access to server-level 
+data, which limits the kinds of research questions that are explored. Interpretation 
+requires accounting for all of the reasons behind why content may have been produced. 
+It’s easy to misinterpret data when researchers can’t directly ask users about their moti-
+vations, perceptions, or attitudes. Similarly, self-reported user characteristics in profile 
+fields are susceptible to self-presentational tendencies and response biases, so just as 
+with survey questions, researchers need to be careful to articulate the biases in their 
+samples. Meanwhile, access to these data is difficult to procure, often requiring 
+ collaboration with a commercial organization or requiring researchers to create social 
+media systems in order to access data. For example, while some researchers have easy 
+access to the Twitter “firehose,” many others do not. As Lev  Manovich ( 2011 ) has argued, 
+limited access to data may reproduce significant inequalities among researchers and 
+limits what kinds of questions are asked. While the research challenges surrounding 
+server-level data are not yet well understood or articulated, it is important that scholars 
+begin interrogating this aspect of studying SNSs. 
+
+ As more and more attention is given to the large datasets associated with social 
+media applications, it is also important for researchers to recognize that many pow-
+erful inquiries about SNS practices do not require server-level access or technical 
+analyses. Indeed, there is critical research value in understanding how individuals 
+interpret the technological artifacts of SNSs or how individuals work to challenge 
+expectations about how they are supposed to engage with the systems. Just because a 
+system is designed to do something in particular does not mean that users will engage 
+with it in that way. For example, Facebook gives users the ability to “deactivate” (as 
+opposed to delete) their accounts so that users who regret their decision could reac-
+tivate their account without suffering data loss. Yet,  boyd and Marwick ( 2011 ) 
+interviewed a teenage girl who repurposed this feature to make Facebook a real-time 
+experience for privacy reasons. Every day, she logged into Facebook and reactivated 
+
+
+
+sociality through social network sites   169
+
+her account; when she was done, she deactivated her account. Her regular de/re-acti-
+vation strategy may have been visible as a glitch in the server logs, but the rationale 
+for her behavior would be impossible to discern without direct interrogation of some 
+kind. It is important not to lose sight of the kinds of questions that  cannot be answered 
+by server-level datasets alone. 
+
+ Conclusion 
+
+ In this chapter, we’ve attempted to highlight changes in social network sites over time 
+and to introduce a definition of SNSs that more accurately articulates the features and 
+frameworks that are salient to users. We have attempted to outline some of the ways in 
+which SNSs have changed since their popularization, drawing attention to the ways in 
+which technical and social changes are dependent upon one another. As a genre, SNSs 
+are still in their adolescent stage and we expect that they will continue to evolve. By con-
+textualizing them in light of the Web 2.0 phenomenon and revealing how they build on 
+previous genres of CMC, we have grounded their history so that future developments 
+can better be understood in terms of the past. 
+
+ Our definition of social network sites is deeply connected to these sites’ features 
+and affordances. Yet, as we have found in our own work, focusing primarily on the 
+technical features of a particular tool might be less useful than highlighting how the 
+tools are used in practice. Although the feature set is the most visible characteristic—
+as is the case of many technologies—many of the more interesting insights emerge 
+when we consider user practices and social implications, although it is far more chal-
+lenging to measure, articulate, and theorize about these kinds of changes. Thus, we 
+acknowledge the way in which technical and social factors mutually shape one another 
+and call for SNS researchers to attend to and describe the technical system in which 
+they are collecting data. 
+
+ Although studying SNSs introduces new challenges, this area also provides great oppor-
+tunities. As a rapidly moving phenomenon, SNSs complicate researchers’ traditional 
+modes of analysis, but this also introduces new methodological opportunities. The vast 
+amounts of behavioral and server-level data they contain is seductive, but it is important 
+that researchers do not lose sight of the value of inquiries that do not rely on large datasets. 
+Social network sites have opened up new venues and possibilities for analyzing human 
+interactions, but it is essential that researchers do not become too enamored with these 
+new systems. Scholars have the potential to—and, indeed, the responsibility to—interrogate 
+emergent phenomena with a critical eye. Thus, we invite researchers to clearly articulate 
+the assumptions and biases of their methods, attend to the wide array of research 
+ possibilities presented by social network sites, and embrace the possibilities these contexts 
+offer for refining existing theories and developing new ones. 
+
+
+
+170   the oxford handbook of internet studies
+
+ References 
+ Anderson, J. and  Bernoff, J. (2010). “A Global Update of Social Technographics,” Forrester 
+
+Research Report, September 28. 
+ Baym, N. K. (2000).  Tune In, Log On: Soaps, Fandom, and Online Community , Thousand 
+
+Oaks, CA: Sage. 
+ boyd, d. and  Crawford, K. (2012).  “Critical Questions for Big Data: Provocations for a Cultural, 
+
+Technological, and Scholarly Phenomenon,” Information, Communication, & Society 15(5): 
+662–79. 
+
+ boyd, d. and  Ellison, N. B. (2007). “Social Network Sites: Definition, History, and Scholarship,” 
+ Journal of Computer-Mediated Communication , 13(1): 210–30. 
+
+ boyd, d. ,  Golder, S. , and  Lotan, G. (2010). “Tweet Tweet Retweet: Conversational Aspects of 
+Retweeting on Twitter.” Proceedings of HICSS-42, Persistent Conversation Track. Kauai, 
+HI: IEEE Computer Society. January 5–8, 2010. 
+
+ boyd, d. and  Marwick, A. (2011). “Social Privacy in Networked Publics: Teens’ Attitudes, 
+Practices, and Strategies,” Paper presented at Oxford Internet Institute’s Decade in Time 
+Symposium, September 22. 
+
+ Burke, M. ,  Kraut, R. , and  Marlow, C. (2011). “Social Capital on Facebook: Differentiating Uses 
+and Users.” ACM CHI 2011: Conference on Human Factors in Computing Systems. 
+
+ Crawford, K. (2009). “These Foolish Things: On Intimacy and Insignificance in Mobile 
+Media,” in  G. Goggin and  L. Hjorth (eds).  Mobile Technologies: From Telecommunications to 
+Media , New York: Routledge, pp. 252–265. 
+
+ Di Gennaro, C. and  Dutton, W. (2007). “Reconfiguring Friendships: Social Relationships and 
+the Internet,” Information Communication & Society , 10(5): 591–618. 
+
+ Donath, J. (1998). “Identity and Deception in the Virtual Community,” in  M. Smith and
+ P. Kollock (eds).  Communities in Cyberspace , London: Routledge. 
+
+ Döring, N. (2002). “Personal Home Pages on the Web: A Review of Research,” Journal of 
+Computer-Mediated Communication , 7(3). Available at < http://jcmc.indiana.edu/vol7/
+issue3/doering.html >. Accessed May 6, 2012. 
+
+ Dwyer, C. ,  Hiltz, S. R. , and  Passerini, K. (2007). “Trust and Privacy Concern within Social 
+Networking Sites: A Comparison of Facebook and MySpace.” Proceedings of the Thirteenth 
+Americas Conference on Information Systems (AMCIS). 
+
+ Ellison, N. ,  Hancock, J. T. , and  Toma, C. L. (2012). “Profile as Promise: A Framework for 
+Conceptualizing Veracity in Online Dating Self-Presentations,”  New Media & Society, 14(1): 
+45–62 . 
+
+ ——  Heino, R. , and  Gibbs, J. (2006). “Managing Impressions Online: Self-Presentation Processes 
+in the Online Dating Environment,”  Journal of Computer-Mediated Communication , 11(2): 
+article 2. Available at < http://jcmc.indiana.edu/vol11/issue2/ ellison.html >. 
+
+ ——  Steinfield, C. , and Lampe, C. (2007). “The Benefits of Facebook ‘Friends’: Exploring the 
+Relationship between College Students’ Use of Online Social Networks and Social Capital,” 
+ Journal of Computer-Mediated Communication , 12(3): 1143–68. 
+
+ ——, Steinfield, C., and Lampe, C. (2011a). “Connection Strategies: Social Capital 
+Implications of Facebook-Enabled Communication Practices,” New Media & Society 
+13(6): 873–92. 
+
+ ——  Vitak, J. ,  Gray, R.,  Lampe, C., and Brooks, B. (2011b). “Cultivating Social Resources 
+on Facebook: Signals of Relational Investment and their Role in Social Capital Processes,” 
+Paper presented at the iCS-OII 2011 “A Decade in Internet Time,” Symposium, 
+Oxford, UK. 
+
+
+
+sociality through social network sites   171
+
+ Fitzpatrick, B. and  Recordon, D. (2007). “Thoughts on the Social Graph.”  Brad Fitz.com, August 
+17. Available at <http://bradfitz.com/social-graph-problem/ >. 
+
+ Fono, D. and  Raynes-Goldie, K. (2006). “Hyperfriends and Beyond: Friendship and Social 
+Norms on LiveJournal,” in  M. Consalvo and  C. Haythornthwaite (eds). Internet Research 
+Annual. Vol. 4: Selected Papers from the Association of Internet Researchers Conference , New 
+York: Peter Lang. 
+
+ Gonzales, A. L. and  Hancock, J. T. (2008). “Identity Shift in Computer-Mediated Environments,” 
+ Media Psychology , April–June: 11(2): 167–85. 
+
+ Gross, R. and  Acquisti, A. (2005). “Information Revelation and Privacy in Online Social 
+Networks,” Paper presented at proceedings of WPES’05, Alexandria, VA: Association of 
+Computing Machinery, pp. 71–80. 
+
+ Joinson, A. N. (2008). “Looking at, Looking up or Keeping up with People?: Motives and Use 
+of Facebook,” Proceedings of the twenty-sixth annual SIGCHI conference on Human 
+ factors in computing systems, New York: ACM, pp. 1027–36. 
+
+ Kiesler, S. ,  Siegel, J. , and  McGuire, T. W. (1984). “Social Psychological Aspects of Computer-
+Mediated Communication,”  American Psychologist , 39(10): 1123–34. 
+
+ Lampinen, A., Lehtinen, V., Lehmuskallio, A., and Tamminen, S. (2011). “We’re in it Together: 
+Interpersonal Management of Disclosure in Social Network Services,” CHI’11 ACM. 
+
+ Leary, M. R. (1995). Self-Presentation: Impression Management and Interpersonal Behavior , 
+Dubuque, IA: Brown and Benchmark Publishers. 
+
+ Lee, J. 8. (2004). “Year of the Blog? Web Diarists Are Now Official Members of Convention 
+Press Corps,”  New York Times, July 26. Available at < http://www.nytimes.com/2004/07/26/
+us/eyes-nation-internet-year-blog-web-diarists-are-now-official-members-convention
+.html >. Accessed June 2, 2011. 
+
+ Lotan, G. ,  Graeff, E. ,  Ananny, M. ,  Gaffney, D. ,  Pearce, I. , and  boyd, d. (2011). “The Revolutions 
+Were Tweeted: Information Flows during the 2011 Tunisian and Egyptian Revolutions,” 
+ International Journal of Communications , 5: Feature 1375–405. 
+
+ McKeon, M . (2010). “The Evolution of Privacy on Facebook,”  MattMcKeon.com , May 19. 
+Available at <http://www.mattmckeon.com/facebook-privacy/>. Accessed October 4, 2011. 
+
+ Madden, M. and  Zickuhr, K. (2011). “65% of Online Adults Use Social Networking Sites,” Pew 
+Internet & American Life Project, August 26. Available at <http://pewinternet.org/
+Reports/2011/Social-Networking-Sites.aspx>. Accessed June 20, 2012. 
+
+ Manovich, L. (2011). “Trending: The Promises and the Challenges of Big Social Data,” in  M. K. 
+Gold, (ed.).  Debates in the Digital Humanities , Minneapolis, MN: The University of 
+Minnesota Press. Available at < http://www.manovich.net/DOCS/Manovich_trending_
+paper.pdf >. Accessed July 15, 2011. 
+
+ Marwick, A . (2010). “Status Update: Celebrity, Publicity, and Self-Branding in Web 2.0,” 
+Dissertation, New York University. 
+
+ —— and  Boyd, D. (2011). “I Tweet Honestly, I Tweet Passionately: Twitter Users, Context 
+Collapse, and the Imagined Audience,”  New Media and Society , 13: 96–113. 
+
+ Meyrowitz, J. (1985). No Sense of Place: The Impact of Electronic Media on Social Behaviour , 
+NewYork: Oxford University Press. 
+
+ Morris, M. R. ,  Teevan, J. , and  Panovich, K. (2010a). “What Do People Ask Their Social 
+Networks, and Why? A Survey Study of Status Message QandA Behavior,” Proceedings of 
+CHI 2010, New York: ACM, pp. 1739–48. 
+
+ ——, Teevan, J., and Panovich, K. (2010b). “Comparison of Information Seeking Using Search 
+Engines and Social Networks.” Proceedings of ICWSM. Available at < http://www.aaai.org/
+Press/Proceedings/proceedings.php >. Accessed May 6, 2012.
